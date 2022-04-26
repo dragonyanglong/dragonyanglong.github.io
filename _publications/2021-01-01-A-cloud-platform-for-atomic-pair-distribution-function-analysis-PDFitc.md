@@ -1,13 +1,9 @@
 ---
-title: "A cloud platform for atomic pair distribution function analysis: PDFitc"
+title: "A Cloud Platform for Atomic Pair Distribution Function Analysis: PDFitc"
 collection: publications
-permalink: /publication/2021-01-01-A-cloud-platform-for-atomic-pair-distribution-function-analysis-PDFitc
-excerpt: 'Number: 1 Publisher: International Union of Crystallography'
+permalink: /publication/2021-01-01-A-Cloud-Platform-for-Atomic-Pair-Distribution-Function-Analysis-PDFitc
 date: 2021-01-01
 venue: 'Acta Crystallographica Section A: Foundations and Advances'
-paperurl: 'https://journals.iucr.org/a/issues/2021/01/00/ae5091/'
-citation: ' L. Yang,  E. Culbertson,  N. Thomas,  H. Vuong,  E. Kjær,  K. Jensen,  M. Tucker,  S. Billinge, &quot;A cloud platform for atomic pair distribution function analysis: PDFitc.&quot; Acta Crystallographica Section A: Foundations and Advances, 2021.'
+citation: ' Long Yang,  Elizabeth Culbertson,  Nancy Thomas,  Hung Vuong,  Emil Kj{\ae}r,  Kirsten Jensen,  Matthew Tucker,  Simon Billinge, &quot;A Cloud Platform for Atomic Pair Distribution Function Analysis: PDFitc.&quot; Acta Crystallographica Section A: Foundations and Advances, 2021.'
 ---
-Number: 1 Publisher: International Union of Crystallography
-
-[Access paper here](https://journals.iucr.org/a/issues/2021/01/00/ae5091/){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=A+Cloud+Platform+for+Atomic+Pair+Distribution+Function+Analysis:+PDFitc){:target="_blank"} for full citation
