@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Long Yang"
+  name             : "Prof. Long Yang"
   avatar           : "profile.png"
-  bio              : "PhD, Columbia University" #"Assistant Professor, Department of Materials Science and Engineering, Tongji University"
+  bio              : "Assistant Professor, Department of Materials Science and Engineering, Tongji University"
   location         : "Shanghai, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=H2mOKp8AAAAJ"
-  email            : "long.yang@columbia.edu"
+  email            : "dragon.yanglong@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
