@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+
 Prof. Yang received Ph.D. in Materials Science and Engineering from Columbia University in 2021, following a B.S. degree in Optics at Fudan University in 2015. He joined the faculty as an Assistant Professor in the Department of Materials Science and Engineering at Tongji University in 2022.
 
 His research focuses on the study of local structure-property relationships of crystalline and nanocrystalline materials at the sub-nanometer length scale using advanced x-ray, neutron, and electron diffraction techniques. He is developing the pair distribution function (PDF) technique for studying the nanoscale structure and its related structure-property relationship of advanced materials, utilizing some of the world's most powerful scientific facilities, and applying advanced computation, including data mining and graph theoretic methods. He is also the leading developers for a series of scientific software in the community, including PDFitc ([PDF in the cloud](https://pdfitc.org)), and the 2.0 version of [PDFgui](https://www.diffpy.org/products/pdfgui.html).
 
-Prof. Yang has published more than 10 peer reviewed papers. He hs earned a number of awards including the Chinese National Scholarship in 2012, 2021 Shanghai Leading Talents Program (Overseas).
+Prof. Yang has published more than 10 peer reviewed papers. He hs earned a number of awards including the China National Scholarship in 2012, and the 2021 Shanghai Leading Talents Program (Overseas).
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-Prof. Yang's CV is available [here]().
+Prof. Yang's CV is available [here](files/cv.pdf).
 
 A data-driven personal website
 ======
