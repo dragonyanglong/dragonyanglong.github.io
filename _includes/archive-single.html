@@ -60,5 +60,9 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.doi %}
+      <p>DOI: <a href="https://dx.doi.org/{{ post.doi }}"><u>{{ post.doi }}</u></a></p>
+    {% endif %}
+
   </article>
 </div>

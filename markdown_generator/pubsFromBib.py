@@ -66,6 +66,9 @@ for pubsource in publist:
         pub_day = "01"
         
         b = bibdata.entries[bib_id].fields
+
+        print("b")
+        print(b)
         
         try:
             pub_year = f'{b["year"]}'
@@ -136,6 +139,9 @@ for pubsource in publist:
                     url = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
+
+            if "doi" in b.keys():
+                md += "\nDOI: '" + html_escape(b["doi"]) + "'"
 
             md += "\n---"
 
