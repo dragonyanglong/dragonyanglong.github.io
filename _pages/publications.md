@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <a href="{{ author.googlescholar }}" target="_blank">my Google Scholar profile</a>.
 
 
-[1] Thatcher, Z., C.-H. Liu, L. Yang, B. C. McBride, G. Thinh Tran, A. Wustrow, M. A. Karlsen, J. R. Neilson, D. B. Ravnsbæk, and S. J. L. Billinge. 2022. “NmfMapping: A Cloud-Based Web Application for Non-Negative Matrix Factorization of Powder Diffraction and Pair Distribution Function Datasets.” Acta Crystallographica Section A: Foundations and Advances 78 (3): 242–48. https://doi.org/10.1107/S2053273322002522.
+[1] Thatcher, Zachary, Chia-Hao Liu, Long Yang, Brennan C. McBride, Gia Thinh Tran, Allison Wustrow, Martin A. Karlsen, James R. Neilson, Dorthe B. Ravnsbæk, and Simon J. L. Billinge. 2022. “NmfMapping: A Cloud-Based Web Application for Non-Negative Matrix Factorization of Powder Diffraction and Pair Distribution Function Datasets.” Acta Crystallographica Section A: Foundations and Advances 78 (3): 242–48. https://doi.org/10.1107/S2053273322002522.
 
 [2] Yang, Long, Elizabeth A. Culbertson, Nancy K. Thomas, Hung T. Vuong, Emil T. S. Kjær, Kirsten M. Ø Jensen, Matthew G. Tucker, and Simon J. L. Billinge. 2021. “A Cloud Platform for Atomic Pair Distribution Function Analysis: PDFitc.” Acta Crystallographica Section A: Foundations and Advances 77 (1): 2–6. https://doi.org/10.1107/S2053273320013066.
 
@@ -18,7 +18,7 @@ You can also find my articles on <a href="{{ author.googlescholar }}" target="_b
 
 [5] Boota, Muhammad, Chi Chen, Long Yang, Alexander I. Kolesnikov, Naresh C. Osti, William Porzio, Luisa Barba, and Jianjun Jiang. 2020. “Probing Molecular Interactions at MXene–Organic Heterointerfaces.” Chemistry of Materials 32 (18): 7884–94. https://doi.org/10.1021/acs.chemmater.0c02662.
 
-[6] Yang, L., P. Juhás, M. W. Terban, M. G. Tucker, and S. J. L. Billinge. 2020. “Structure-Mining: Screening Structure Models by Automated Fitting to the Atomic Pair Distribution Function over Large Numbers of Models.” Acta Crystallographica Section A: Foundations and Advances 76 (3): 395–409. https://doi.org/10.1107/S2053273320002028.
+[6] Yang, Long, Pavol Juhás, Maxwell W. Terban, Matthew G. Tucker, and Simon J. L. Billinge. 2020. “Structure-Mining: Screening Structure Models by Automated Fitting to the Atomic Pair Distribution Function over Large Numbers of Models.” Acta Crystallographica Section A: Foundations and Advances 76 (3): 395–409. https://doi.org/10.1107/S2053273320002028.
 
 [7] Xiao, Xu, Hao Wang, Weizhai Bao, Patrick Urbankowski, Long Yang, Yao Yang, Kathleen Maleski, et al. 2019. “Two-Dimensional Arrays of Transition Metal Nitride Nanocrystals.” Advanced Materials 31 (33): 1902393. https://doi.org/10.1002/adma.201902393.
 
@@ -32,6 +32,7 @@ You can also find my articles on <a href="{{ author.googlescholar }}" target="_b
 
 [12]  Urbankowski, Patrick, Babak Anasori, Kanit Hantanasirisakul, Long Yang, Lihua Zhang, Bernard Haines, Steven J. May, Simon J. L. Billinge, and Yury Gogotsi. 2017. “2D Molybdenum and Vanadium Nitrides Synthesized by Ammoniation of 2D Transition Metal Carbides (MXenes).” Nanoscale 9 (45): 17722–30. https://doi.org/10.1039/C7NR06721F.
 
+[13] Billinge, Simon J. L., Sandra H. Skjærvø, Maxwell W. Terban, Songsheng Tao, Long Yang, Yevgeny Rakita, and Benjamin A. Frandsen. 2021. “Local Structure Determination Using Total Scattering Data.” In Reference Module in Chemistry, Molecular Sciences and Chemical Engineering. Elsevier. https://doi.org/10.1016/B978-0-12-823144-9.00040-6. (Book)
 
 
 
