@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="{{ author.googlescholar }}" target="_blank">my Google Scholar profile</a>.
 
-
+<a href="{{ author.googlescholar }}"> Google Scholar</a>
 [1] Thatcher, Zachary, Chia-Hao Liu, Long Yang, Brennan C. McBride, Gia Thinh Tran, Allison Wustrow, Martin A. Karlsen, James R. Neilson, Dorthe B. Ravnsbæk, and Simon J. L. Billinge. 2022. “NmfMapping: A Cloud-Based Web Application for Non-Negative Matrix Factorization of Powder Diffraction and Pair Distribution Function Datasets.” Acta Crystallographica Section A: Foundations and Advances 78 (3): 242–48. https://doi.org/10.1107/S2053273322002522.
 
 [2] Yang, Long, Elizabeth A. Culbertson, Nancy K. Thomas, Hung T. Vuong, Emil T. S. Kjær, Kirsten M. Ø Jensen, Matthew G. Tucker, and Simon J. L. Billinge. 2021. “A Cloud Platform for Atomic Pair Distribution Function Analysis: PDFitc.” Acta Crystallographica Section A: Foundations and Advances 77 (1): 2–6. https://doi.org/10.1107/S2053273320013066.
