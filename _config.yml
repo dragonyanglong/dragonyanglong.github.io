@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Long Yang"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Department of Materials Science and Engineering, Tongji University"
-  location         : "Shanghai, China"
+  bio              : "Assistant Professor, School of Materials Science and Engineering, Tongji University"
+  location         : "Shanghai 201804, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=H2mOKp8AAAAJ"
-  email            : "dragon.yanglong@gmail.com"
+  email            : "long_yang@tongji.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
