@@ -15,16 +15,17 @@ His research focuses on the study of local structure-property relationships of c
 
 Prof. Yang has published more than 10 papers in the fields of materials science and physics, and some chapters of a book published by Elsevier. He is a fellow of the Chinese Crystallographic Society and he has earned a number of awards including the China National Scholarship in 2012, and the 2021 Shanghai Overseas Leading Talents Program.
 
-Email: **long_yang@tongji.edu.cn** 
+Email: **long_yang@tongji.edu.cn**
+
 Office: Room 327, Decai Building, Tongji University, 4800 Caoan Road, Shanghai 201804, China.
 
-#### Research Interests:
+### Research Interests:
 1. Develop atomic local structure characterization techniques based on high-energy synchrotron x-ray, neutron, and electron diffraction experiments.
 2. Perform structure-property relationship studies on advanced materials in the fields of thermoelectric, energy-storage, and nanoscale functional materials.
 3. Improve advanced structure modeling methods using machine learning and data mining algorithms.
 
 
-#### Position Availability:
+### Position Availability:
 1. There are openings for masters and doctoral students who are interested in physics, materials science, chemistry, and data science. No restrictions on their previous background. **If interested, please email Prof. Yang before 2022/09/30**
 2. There are openings for scientific researchers with background in physics, materials science, chemistry (postdocs, assistant researchers, and research assistants) with high compensation.
 3. Group members will frequently travel to and carry out experiments using the state-of-the-art scientific facilities at national laboratories over the world.
