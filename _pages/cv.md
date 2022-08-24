@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Prof. Yang's CV is available [here](files/cv.pdf).
+Prof. Yang's CV is available [here](/files/cv.pdf).
 
 <!-- {% include base_path %}
 
