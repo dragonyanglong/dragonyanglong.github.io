@@ -13,7 +13,9 @@ Prof. Long Yang is an Assistant Professor in the School of Materials Science and
 
 His research focuses on the study of local structure-property relationships of crystalline, non-crystalline, and nanocrystalline materials at the sub-nanometer length scale using advanced x-ray, neutron, and electron diffraction experiments. He is actively developing the local structure modeling techniques, such as atomic pair distribution function (PDF) and atomic electron tomography (AET) methods, utilizing some of the world's most powerful scientific facilities, and applying advanced computation, including data mining and machine learning algorithms. He is also the leading developer for a series of scientific software in the community, including PDFitc ([PDF in the cloud](https://pdfitc.org)), and the new version of [PDFgui](https://www.diffpy.org/products/pdfgui.html).
 
-Prof. Yang has published more than 10 papers in the fields of materials science and physics, and some chapters of a book published by Elsevier. He is a fellow of the Chinese Crystallographic Society and he has earned a number of awards including the China National Scholarship in 2012, and the 2021 Shanghai Overseas Leading Talents Program.
+Prof. Yang has published more than 10 papers in the fields of materials science and physics, and some chapters of a book published by Elsevier. He has earned a number of awards including the China National Scholarship in 2012, and the 2021 Shanghai Overseas Leading Talents Program.
+
+<!-- He is a fellow of the Chinese Crystallographic Society and-->
 
 Email: **long_yang@tongji.edu.cn**
 
