@@ -34,4 +34,4 @@ Office: Room 330, Decai Building, Tongji University, 4800 Caoan Road, Shanghai 2
 2. There are openings for scientific researchers (postdocs, assistant researchers, and research assistants) with background in physics, materials science, chemistry with high compensation.
 3. Undergraduate students are welcome to join and students are encouraged to publish their research results.
 4. Group members will frequently travel to and carry out experiments using the state-of-the-art scientific facilities at national laboratories over the world.
-5. If interested, please email Prof. Yang with your CV and a brief introudction.
+5. If interested, please email Prof. Yang with your CV and a brief introduction.
