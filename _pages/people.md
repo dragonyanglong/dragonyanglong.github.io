@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "People"
 permalink: /people/
 author_profile: true
 ---
@@ -8,18 +7,20 @@ author_profile: true
 # Principle Investigator
 
 <div>
-<image align="left" width="150" height="200" src="/images/profile.png">
-Long Yang (杨龙)
+<image align="left" width="80" height="100" src="/images/profile.png">
+<p>
+Long Yang (杨龙) <br />
 
-Assistant Professor
+Assistant Professor <br />
 
-School of Materials Science and Engineering
+School of Materials Science and Engineering <br />
 
-Tongji University
+Tongji University <br />
 
-Office: Decai Building 330
+Office: Decai Building 330 <br />
 
-Email: long_yang@tongji.edu.cn
+Email: long_yang@tongji.edu.cn <br />
+</p>
 </div>
 
 
