@@ -7,9 +7,9 @@ author_profile: true
 # Principle Investigator
 
 <div>
-<image align="left" width="80" height="100" src="/images/profile.png">
+<image align="left" width="100" height="150" src="/images/profile.png">
 <p>
-Long Yang (杨龙) <br />
+<b>Long Yang (杨龙)</b> <br />
 
 Assistant Professor <br />
 
@@ -27,11 +27,15 @@ Email: long_yang@tongji.edu.cn <br />
 
 # Students
 
-![kangte](/images/people/kangte.png)
+<div>
+<image align="left" width="100" height="150" src="/images/people/kangte.png">
+<p>
+<b>Te Kang (康特)</b> <br />
 
-Te Kang (康特)
-2023-Now M.S. Tongji University
+2023-Now M.S. Tongji University <br />
 2019-2023 B.S. Tongji University
+</p>
+</div>
 
 <!-- {% include base_path %}
 
