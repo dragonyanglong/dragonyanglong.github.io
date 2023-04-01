@@ -7,7 +7,7 @@ author_profile: true
 # Principle Investigator
 
 <div>
-<image align="left" width="100" height="150" src="/images/profile.png">
+<image align="left" width="200" height="300" src="/images/profile.png">
 <p>
 <b>Long Yang (杨龙)</b> <br />
 Assistant Professor <br />
