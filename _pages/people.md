@@ -7,19 +7,26 @@ author_profile: true
 
 # Principle Investigator
 
-![yanglong](/images/profile.png)
-
+<div>
+<image align="left" width="150" height="200" src="/images/profile.png">
 Long Yang (杨龙)
+
 Assistant Professor
+
 School of Materials Science and Engineering
+
 Tongji University
+
 Office: Decai Building 330
+
 Email: long_yang@tongji.edu.cn
+</div>
+
 
 
 # Students
 
-![kangte][/images/people/kangte.png]
+![kangte](/images/people/kangte.png)
 
 Te Kang (康特)
 2023-Now M.S. Tongji University
