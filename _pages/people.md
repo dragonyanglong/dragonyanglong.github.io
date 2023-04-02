@@ -4,22 +4,22 @@ permalink: /people/
 author_profile: true
 ---
 
-<div>
 <h1>Principal Investigator</h1>
 
 <image align="left" width="150" height="200" src="/images/profile.png">
 
 <p>
-<b>Long Yang (杨龙)</b> <br />
-Assistant Professor <br />
-School of Materials Science and Engineering <br />
-Tongji University <br />
-Office: Decai Building 330 <br />
-Email: long_yang@tongji.edu.cn <br />
+<b>Long Yang (杨龙)</b> <br>
+Assistant Professor <br>
+School of Materials Science and Engineering <br>
+Tongji University <br>
+Office: Decai Building 330 <br>
+Email: long_yang@tongji.edu.cn <br>
 </p>
 
+<br>
+<br>
 
-<div>
 <h1>Students</h1>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
