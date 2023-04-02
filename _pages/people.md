@@ -4,10 +4,11 @@ permalink: /people/
 author_profile: true
 ---
 
+<div>
 <h1>Principal Investigator</h1>
 
-<div>
-<image align="left" width="200" height="300" src="/images/profile.png">
+
+<image align="left" width="150" height="200" src="/images/profile.png">
 <p>
 <b>Long Yang (杨龙)</b> <br />
 Assistant Professor <br />
@@ -19,10 +20,10 @@ Email: long_yang@tongji.edu.cn <br />
 </div>
 
 
-
+<div>
 <h1>Students</h1>
 
-<div>
+
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 <p>
 <b>Te Kang (康特)</b> <br />
