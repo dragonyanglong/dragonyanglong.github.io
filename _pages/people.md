@@ -30,7 +30,6 @@ kt1953994@tongji.edu.cn
 2019-2023 B.S. Tongji University
 </p>
 <br>
-<br>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 
@@ -41,6 +40,15 @@ kt1953994@tongji.edu.cn
 2019-2023 B.S. Tongji University
 </p>
 <br>
+
+<image align="left" width="150" height="200" src="/images/people/bio.png">
+
+<p>
+<b>Guanqing Chen (陈关清)</b> <br>
+1950801@tongji.edu.cn
+2023-Now M.S. Tongji University <br>
+2019-2023 B.S. Tongji University
+</p>
 <br>
 
 <h1>Alumni</h1>

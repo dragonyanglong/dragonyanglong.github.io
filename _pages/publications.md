@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">my Google Scholar profile</a>.
+You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
 [1] Emil T. S. Kjær, O. Aalling-Frederiksen, Long Yang, Nancy K. Thomas, Mikkel Juelsholt, Simon J. L. Billinge, and Jensen M. Ø. Jensen. 2022. “In Situ Studies of the Formation of Tungsten and Niobium Oxide Nanoparticles: Towards Automated Analysis of Reaction Pathways from PDF Analysis using the Pearson Correlation Coefficient.” Chemistry-Methods, e202200034. https://doi.org/10.1002/cmtd.202200034
 
