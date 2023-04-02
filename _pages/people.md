@@ -29,7 +29,6 @@ kt1953994@tongji.edu.cn <br>
 2023-Now M.S. Tongji University <br>
 2019-2023 B.S. Tongji University <br>
 </p>
-<br>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 
@@ -39,7 +38,6 @@ kt1953994@tongji.edu.cn <br>
 2023-Now M.S. Tongji University <br>
 2019-2023 B.S. Tongji University <br>
 </p>
-<br>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 
