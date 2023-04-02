@@ -57,7 +57,7 @@ kt1953994@tongji.edu.cn <br>
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 <p>
 <b>Ping Sun (孙萍)</b> <br>
-XXX@tongji.edu.cn <br>
+2152622@tongji.edu.cn <br>
 2021-Now B.S. Tongji University <br>
 </p>
 <br>
