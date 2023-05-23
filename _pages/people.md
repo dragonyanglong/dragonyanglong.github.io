@@ -31,6 +31,7 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 <p>
@@ -39,6 +40,7 @@ kt1953994@tongji.edu.cn <br>
 2023-Now M.S. Tongji University <br>
 2019-2023 B.S. Tongji University <br>
 </p>
+<br>
 <br>
 <br>
 <br>
@@ -53,6 +55,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/chenguanqing.png">
 <p>
@@ -60,6 +63,7 @@ kt1953994@tongji.edu.cn <br>
 1950801@tongji.edu.cn <br>
 2019-Now B.S. Tongji University <br>
 </p>
+<br>
 <br>
 <br>
 <br>
@@ -73,6 +77,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 <p>
@@ -80,6 +85,7 @@ kt1953994@tongji.edu.cn <br>
 2152622@tongji.edu.cn <br>
 2021-Now B.S. Tongji University <br>
 </p>
+<br>
 <br>
 <br>
 <br>
@@ -93,6 +99,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 <p>
@@ -100,6 +107,7 @@ kt1953994@tongji.edu.cn <br>
 2151346@tongji.edu.cn <br>
 2021-Now B.S. Tongji University <br>
 </p>
+<br>
 <br>
 <br>
 <br>
@@ -113,5 +121,5 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 <br>
-
+<br>
 
