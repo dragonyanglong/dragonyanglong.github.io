@@ -93,7 +93,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/xiaozuke.png">
 <p>
 <b>Zuke Xiao (肖祖柯)</b> <br>
 2152752@tongji.edu.cn <br>
