@@ -20,6 +20,16 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <h1>Students</h1>
 
+<image align="left" width="150" height="200" src="/images/people/lichangyuan.png">
+<p>
+<b>Changyuan Li (李昌源)</b> <br>
+719295379@qq.com <br>
+2023-Now Ph.D. Tongji University <br>
+2020-22023 M.S. Nanjing University of Aeronautics and Astronautics <br>
+2016-2020 B.S. Hunan University <br>
+</p>
+<br>
+
 <image align="left" width="150" height="200" src="/images/people/bio.png">
 <p>
 <b>Te Kang (康特)</b> <br>
@@ -38,7 +48,7 @@ kt1953994@tongji.edu.cn <br>
 </p>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/chenguanqing.png">
 <p>
 <b>Guanqing Chen (陈关清)</b> <br>
 1950801@tongji.edu.cn <br>
@@ -92,8 +102,9 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 
-<br>
-<h1>Alumni</h1>
+[//]: # (<br>)
+
+[//]: # (<h1>Alumni</h1>)
 
 
 
