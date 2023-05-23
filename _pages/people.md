@@ -25,7 +25,7 @@ Email: long_yang@tongji.edu.cn <br>
 <b>Changyuan Li (李昌源)</b> <br>
 719295379@qq.com <br>
 2023-Now Ph.D. Tongji University <br>
-2020-22023 M.S. Nanjing University of Aeronautics and Astronautics <br>
+2020-22023 M.S. NUAA <br>
 2016-2020 B.S. Hunan University <br>
 </p>
 <br>
