@@ -3,6 +3,10 @@ layout: archive
 permalink: /people/
 author_profile: true
 ---
+<br>
+<br>
+<image align="left" src="/images/total.jpeg">
+
 
 <h1>Principal Investigator</h1>
 
@@ -90,7 +94,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/qiaohai.png">
 <p>
 <b>Hai Qiao (乔海)</b> <br>
 2154076@tongji.edu.cn <br>
@@ -101,7 +105,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/zhoujie.png">
 <p>
 <b>Jie Zhou (周杰)</b> <br>
 2151346@tongji.edu.cn <br>
