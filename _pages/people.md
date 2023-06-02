@@ -6,7 +6,7 @@ author_profile: true
 <p>
 <br>
 <br>
-<image align="left" src="/images/total.jpeg">
+<image align="left" src="/images/total.png">
 </p>
 
 <h1>Principal Investigator</h1>
