@@ -3,9 +3,7 @@ layout: archive
 permalink: /people/
 author_profile: true
 ---
-<p>
 <image align="left" width="700" height="500" src="/images/people/total.png">
-</p>
 <br>
 <br>
 <br>
@@ -20,7 +18,11 @@ author_profile: true
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1>Principal Investigator</h1>
 
