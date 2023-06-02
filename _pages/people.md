@@ -3,10 +3,11 @@ layout: archive
 permalink: /people/
 author_profile: true
 ---
+<p>
 <br>
 <br>
-<image align="left" src="/images/total.png">
-
+<image align="left" src="/images/total.jpeg">
+</p>
 
 <h1>Principal Investigator</h1>
 
