@@ -4,7 +4,11 @@ permalink: /people/
 author_profile: true
 ---
 
-<image align="left" src="/images/people/total.png">
+<image align="left" src="/images/people/total.jpeg">
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
