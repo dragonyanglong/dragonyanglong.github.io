@@ -4,7 +4,14 @@ permalink: /people/
 author_profile: true
 ---
 
-<image align="left" width="700" height="500" src="/images/total.png">
+<image align="left" src="/images/people/total.png">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1>Principal Investigator</h1>
 
@@ -18,7 +25,7 @@ Office: Decai Building 330 <br>
 Email: long_yang@tongji.edu.cn <br>
 </p>
 <br>
-<image align="left" width="700" height="500" src="/images/total.png">
+<image align="left" width="700" height="500" src="/images/people/total.png">
 
 
 <br>
