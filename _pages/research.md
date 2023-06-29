@@ -18,13 +18,13 @@ We travel and carry out synchrotron x-ray, neutron, and electron scientific expe
 
 Synchrotrons:
 <picture>
-<image src="/images/research/worldsynchrotrons.jpg">
+<image width="800" height="800" src="/images/research/worldsynchrotrons.jpg">
 </picture>
 
-<div>
 Neutrons:
-<image width="500" height="500" src="/images/research/worldneutrons.jpg">
-</div>
+<picture>
+<image width="800" height="800" src="/images/research/worldneutrons.jpg">
+</picture>
 
 Group photos of past experiments:
 
