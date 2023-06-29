@@ -6,13 +6,20 @@ author_profile: true
 Our group conduct both scientific experiments and advanced computation, utilizing some of the world's most powerful 
 research facilities:
 
+# Computation
+We develop advanced data science algorithms, including machine learning, deep learning, data mining, to solve scientific 
+questions that can hardly be answered by traditional studies.
+
+
+
+
 # Experiments
 We travel and carry out synchrotron x-ray, neutron, and electron scientific experiments across the world:
 
-<div>
 Synchrotrons:
-<image width="500" height="500" src="/images/research/worldsynchrotrons.jpg">
-</div>
+<picture>
+<image src="/images/research/worldsynchrotrons.jpg">
+</picture>
 
 <div>
 Neutrons:
@@ -21,22 +28,23 @@ Neutrons:
 
 Group photos of past experiments:
 
-China Spallation Neutron Source:
+<image width="500" height="500" src="/images/research/csns.jpg">
+<image width="500" height="500" src="/images/research/csns_gate.jpg">
 
-Shanghai Synchrotron Radiation Facility:
-<image width="500" height="500" src="/images/research/ssrf.png">
+<image width="500" height="500" src="/images/research/ssrf.jpg">
+<image width="500" height="500" src="/images/research/ssrf_13ssw.jpg">
 
 
 Brookhaven National Lab (USA):
 
 
 
+Argonne National Lab (USA):
 
 
+Oak Ridge National Lab (USA):
 
-# Computation
-We develop advanced data science algorithms, including machine learning, deep learning, data mining, to solve scientific 
-questions that can hardly be answered by traditional studies.
+
 
 
 
