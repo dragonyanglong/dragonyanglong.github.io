@@ -9,18 +9,22 @@ research facilities:
 # Experiments
 We travel and carry out synchrotron x-ray, neutron, and electron scientific experiments across the world:
 
+<div>
 Synchrotrons:
-<image width="500" height="500" src="/images/people/worldsynchrotrons.jpg">
+<image width="500" height="500" src="/images/research/worldsynchrotrons.jpg">
+</div>
 
+<div>
 Neutrons:
-<image width="500" height="500" src="/images/people/worldneutrons.jpg">
+<image width="500" height="500" src="/images/research/worldneutrons.jpg">
+</div>
 
 Group photos of past experiments:
 
 China Spallation Neutron Source:
 
 Shanghai Synchrotron Radiation Facility:
-<image width="500" height="500" src="/images/people/ssrf.png">
+<image width="500" height="500" src="/images/research/ssrf.png">
 
 
 Brookhaven National Lab (USA):
