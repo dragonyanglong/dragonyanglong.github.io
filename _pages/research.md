@@ -16,15 +16,15 @@ questions that can hardly be answered by traditional studies.
 # Experiments
 We travel and carry out synchrotron x-ray, neutron, and electron scientific experiments across the world:
 
-Synchrotrons:
-<picture>
+<div>
+Synchrotron x-rays:
 <image width="800" height="800" src="/images/research/worldsynchrotrons.jpg">
-</picture>
+</div>
 
+<div>
 Neutrons:
-<picture>
 <image width="800" height="800" src="/images/research/worldneutrons.jpg">
-</picture>
+</div>
 
 Group photos of past experiments:
 
