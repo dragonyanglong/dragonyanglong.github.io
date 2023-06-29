@@ -26,23 +26,17 @@ Neutrons:
 <image width="800" height="800" src="/images/research/worldneutrons.jpg">
 </div>
 
+<div>
 Group photos of past experiments:
-
 <image width="500" height="500" src="/images/research/csns.jpg">
+<br>
 <image width="500" height="500" src="/images/research/csns_gate.jpg">
-
+<br>
 <image width="500" height="500" src="/images/research/ssrf.jpg">
+<br>
 <image width="500" height="500" src="/images/research/ssrf_13ssw.jpg">
-
-
-Brookhaven National Lab (USA):
-
-
-
-Argonne National Lab (USA):
-
-
-Oak Ridge National Lab (USA):
+<br>
+</div>
 
 
 
