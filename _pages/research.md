@@ -3,14 +3,16 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-Our group conduct both scientific experiments and advanced computation, utilizing some of the world's most powerful 
+Our group conduct both scientific experiments and advanced computation for energy materials, utilizing some of the world's most powerful 
 research facilities:
 
 # Computation
 We develop advanced data science algorithms, including machine learning, deep learning, data mining, to solve scientific 
 questions that can hardly be answered by traditional studies.
-
-
+<div>
+<image width="800" height="800" src="/images/research/research_overview.jpg">
+</div>
+<br>
 
 
 # Experiments
