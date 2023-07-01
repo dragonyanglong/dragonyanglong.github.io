@@ -6,7 +6,7 @@ author_profile: true
 Our group conduct both scientific experiments and advanced computation for energy materials, utilizing some of the world's most powerful 
 research facilities:
 
-# Computation
+<strong>Computation</strong>
 We develop advanced data science algorithms, including machine learning, deep learning, data mining, to solve scientific 
 questions that can hardly be answered by traditional studies.
 <div>
@@ -15,7 +15,7 @@ questions that can hardly be answered by traditional studies.
 <br>
 
 
-# Experiments
+<strong>Experiments</strong>
 We travel and carry out synchrotron x-ray, neutron, and electron scientific experiments across the world:
 
 <b>Synchrotron x-rays:</b>
