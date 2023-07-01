@@ -89,7 +89,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/lishiqi.jpg">
 <p>
 <b>Shiqi Li (李施奇)</b> <br>
 2152374@tongji.edu.cn <br>
@@ -100,7 +100,7 @@ kt1953994@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/sunping.jpg">
 <p>
 <b>Ping Sun (孙萍)</b> <br>
 2152622@tongji.edu.cn <br>
