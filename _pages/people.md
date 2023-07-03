@@ -3,7 +3,7 @@ layout: archive
 permalink: /people/
 author_profile: true
 ---
-<image align="left" width="700" height="500" src="/images/people/total.png">
+<image align="left" width="700" height="500" src="/images/people/total.jpg">
 <br>
 <br>
 <br>
