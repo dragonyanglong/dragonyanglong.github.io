@@ -54,22 +54,10 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/bio.png">
+<image align="left" width="150" height="200" src="/images/people/kangte.jpeg">
 <p>
 <b>Te Kang (康特)</b> <br>
 kt1953994@tongji.edu.cn <br>
-2023-Now M.S. Tongji University <br>
-2019-2023 B.S. Tongji University <br>
-</p>
-<br>
-<br>
-<br>
-<br>
-
-<image align="left" width="150" height="200" src="/images/people/bio.png">
-<p>
-<b>Tao Yang (杨涛)</b> <br>
-1952414@tongji.edu.cn <br>
 2023-Now M.S. Tongji University <br>
 2019-2023 B.S. Tongji University <br>
 </p>
