@@ -7,7 +7,7 @@ main:
     url: /people/
 
   - title: "News"
-    url: /year-archive/
+    url: /news/
 
   - title: "Publications"
     url: /publications/
