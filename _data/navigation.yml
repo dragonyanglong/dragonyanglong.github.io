@@ -6,6 +6,9 @@ main:
   - title: "People"
     url: /people/
 
+  - title: "News"
+    url: /year-archive/
+
   - title: "Publications"
     url: /publications/
 
