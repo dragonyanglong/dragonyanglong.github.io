@@ -5,9 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Unveiling local magnetic correlations: the development of magnetic pair distribution function at CSNS, The 24th meeting of The International Collaboration of Advanced Neutron Sources (ICANS XXIV), Dongguan, Guangdong, China, October 2023 (Invited Talk)
+
+
+- The cloud platform for PDF data analysis of local structure characterization, The 9th Chinese Crystallographic Society (CCrS) meeting, Fuzhou, Fujian, China, October 2023 (Invited Talk, Committee Member)
+
+
+- The cloud platform for PDF data analysis of local structure characterization, Chinese Materials Conference 2022-2023 by Chinese Materials Research Society(C-MRS), Shenzhen, Guangdong, China, July 2023 (Outstanding talk award)
+
+
 - The Structure-Property Relationship of Atomic Local Structures and Low Lattice Thermal Conductivities, 14th Chinese Conference on Thermoelectric Materials and Applications (CCT2022), Tongxiang, Zhejiang, China, March 2023 (Oral Presentation)
 
+
 - Atomic Pair Distribution Function Data Processing for Total Scattering Experiments, 3rd Advanced Light Source Neutron Source Scientific Data and Software Workshop, IHEP of CAS, Beijing, China, March 2023 (Oral Presentation)
+
 
 - Data Processing for Synchrotron X-ray and Neutron Experiments. IHEP School of Computing 2022, The Institute of High Energy Physics (IHEP) of the Chinese Academy of Sciences, Beijing, China, August 2022 (Invited Talk).
 
