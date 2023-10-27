@@ -11,7 +11,7 @@ author_profile: true
 - The cloud platform for PDF data analysis of local structure characterization, The 9th Chinese Crystallographic Society (CCrS) meeting, Fuzhou, Fujian, China, October 2023 (Invited Talk, Committee Member)
 
 
-- The cloud platform for PDF data analysis of local structure characterization, Chinese Materials Conference 2022-2023 by Chinese Materials Research Society(C-MRS), Shenzhen, Guangdong, China, July 2023 (Outstanding talk award)
+- The cloud platform for PDF data analysis of local structure characterization, Chinese Materials Conference 2022-2023 by Chinese Materials Research Society(C-MRS), Shenzhen, Guangdong, China, July 2023 (Outstanding Talk Award)
 
 
 - The Structure-Property Relationship of Atomic Local Structures and Low Lattice Thermal Conductivities, 14th Chinese Conference on Thermoelectric Materials and Applications (CCT2022), Tongxiang, Zhejiang, China, March 2023 (Oral Presentation)
