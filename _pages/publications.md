@@ -9,7 +9,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 [1]	Saman Moniri, Yao Yang, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, Jun Ding, and Jianwei Miao. Three-dimensional atomic positions and local chemical order of medium- and high-entropy alloys, Nature 2023 (In Press).
 
-[2]	Tao Jin*, Long Yang*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / i-v-vi2 thermoelectrics, InfoMat 2023 (Co-first author, Accepted, IF=24.8).
+[2]	Tao Jin, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / I-V-VI2 thermoelectrics, InfoMat 2023 (Co-first Author, Accepted, IF=24.8).
 
 [3]	Bingbing Liu, Yuchen Shang, Mingguang Yao, Zhaodong Liu, Rong Fu, Longbiao Yan, Long Yang, Zhongyin Zhang, Jiajun Dong, Chunguang Zhai, Xuyuan Hou, Liting Fei, GuanJie Zhang, Jianfeng Ji, Jie Zhu, He Lin, and Bertil Sundqvist. Enhancement of Short/Medium-Range Order and Thermal Conductivity in Ultrahard sp3 Amorphous Carbon by C70 precursor, Nat. Commun. 2023 (In Press).
 
