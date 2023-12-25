@@ -29,13 +29,13 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Long Yang, Pavol Juhás, Maxwell W. Terban, Matthew G. Tucker, and Simon J. L. Billinge. Structure-Mining: Screening Structure Models by Automated Fitting to the Atomic Pair Distribution Function over Large Numbers of Models, Acta Crystallographica Section A: Foundations and Advances, 76(3):395–409, May 2020. https://doi.org/10.1107/S2053273320002028. [pdf](/papers/10.1107/S2053273320002028.pdf)
 
--	Xu Xiao, Hao Wang, Weizhai Bao, Patrick Urbankowski, Long Yang, Yao Yang, Kathleen Maleski, et al. Two-Dimensional Arrays of Transition Metal Nitride Nanocrystals, Advanced Materials. 31(33):1902393, June 2019. https://doi.org/10.1002/adma.201902393. [pdf](/papers/10.1002/adma.201902393.pdf)
+-	Xu Xiao, Hao Wang, Weizhai Bao, Patrick Urbankowski, Long Yang, Yao Yang, Kathleen Maleski, Linfan Cui, Simon J. L. Billinge, Guoxiu Wang, Yury Gogotsi. Two-Dimensional Arrays of Transition Metal Nitride Nanocrystals, Advanced Materials. 31(33):1902393, June 2019. https://doi.org/10.1002/adma.201902393. [pdf](/papers/10.1002/adma.201902393.pdf)
 
 -	Alexander P. Aydt, Boyu Qie, Andrew Pinkard, Long Yang, Qian Cheng, Simon J. L. Billinge, Yuan Yang, and Xavier Roy. Microporous Battery Electrodes from Molecular Cluster Precursors, ACS Applied Materials & Interfaces. 11(12):11292–11297, March 2019. https://doi.org/10.1021/acsami.8b18149. [pdf](/papers/10.1021/acsami.8b18149.pdf)
 
 -	Wei Cao, Long Yang, Stéphane Auffret, and William E. Bailey. Nearly Isotropic Spin-Pumping Related Gilbert Damping in Pt/Ni81Fe19/Pt, Physical Review B, 99(9):094406, March 2019. https://doi.org/10.1103/PhysRevB.99.094406. [pdf](/papers/10.1103/PhysRevB.99.094406.pdf)
 
--	Xu Xiao, Patrick Urbankowski, Kanit Hantanasirisakul, Yao Yang, Stephen Sasaki, Long Yang, Chi Chen, et al. Scalable Synthesis of Ultrathin Mn3N2 Exhibiting Room-Temperature Antiferromagnetism. Advanced Functional Materials, 29(17):1809001, March 2019. https://doi.org/10.1002/adfm.201809001. [pdf](/papers/10.1002/adfm.201809001.pdf)
+-	Xu Xiao, Patrick Urbankowski, Kanit Hantanasirisakul, Yao Yang, Stephen Sasaki, Long Yang, Chi Chen, Hao Wang, Ling Miao, Sarah H. Tolbert, Simon J. L. Billinge, Héctor D. Abruña, Steven J. May, Yury Gogotsi. Scalable Synthesis of Ultrathin Mn3N2 Exhibiting Room-Temperature Antiferromagnetism. Advanced Functional Materials, 29(17):1809001, March 2019. https://doi.org/10.1002/adfm.201809001. [pdf](/papers/10.1002:adfm.201809001.pdf)
 
 -	Julien Lombardi, Long Yang, Frederick A. Pearsall, Nasim Farahmand, Zheng Gai, Simon J. L. Billinge, and Stephen O’Brien. Stoichiometric Control over Ferroic Behavior in Ba(Ti1–xFex)O3 Nanocrystals, Chemistry of Materials, 31(4):1318–1335, February 2019. https://doi.org/10.1021/acs.chemmater.8b04447. [pdf](/papers/10.1021/acs.chemmater.8b04447.pdf)
 
