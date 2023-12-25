@@ -35,7 +35,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Wei Cao, Long Yang, Stéphane Auffret, and William E. Bailey. Nearly Isotropic Spin-Pumping Related Gilbert Damping in Pt/Ni81Fe19/Pt, Physical Review B, 99(9):094406, March 2019. https://doi.org/10.1103/PhysRevB.99.094406. [pdf](/papers/10.1103/PhysRevB.99.094406.pdf)
 
--	Xu Xiao, Patrick Urbankowski, Kanit Hantanasirisakul, Yao Yang, Stephen Sasaki, Long Yang, Chi Chen, Hao Wang, Ling Miao, Sarah H. Tolbert, Simon J. L. Billinge, Héctor D. Abruña, Steven J. May, Yury Gogotsi. Scalable Synthesis of Ultrathin Mn3N2 Exhibiting Room-Temperature Antiferromagnetism. Advanced Functional Materials, 29(17):1809001, March 2019. https://doi.org/10.1002/adfm.201809001. [pdf](/papers/10.1002:adfm.201809001.pdf)
+-	Xu Xiao, Patrick Urbankowski, Kanit Hantanasirisakul, Yao Yang, Stephen Sasaki, Long Yang, Chi Chen, Hao Wang, Ling Miao, Sarah H. Tolbert, Simon J. L. Billinge, Héctor D. Abruña, Steven J. May, Yury Gogotsi. Scalable Synthesis of Ultrathin Mn3N2 Exhibiting Room-Temperature Antiferromagnetism. Advanced Functional Materials, 29(17):1809001, March 2019. https://doi.org/10.1002/adfm.201809001. [pdf](/papers/10.1002_adfm.201809001.pdf)
 
 -	Julien Lombardi, Long Yang, Frederick A. Pearsall, Nasim Farahmand, Zheng Gai, Simon J. L. Billinge, and Stephen O’Brien. Stoichiometric Control over Ferroic Behavior in Ba(Ti1–xFex)O3 Nanocrystals, Chemistry of Materials, 31(4):1318–1335, February 2019. https://doi.org/10.1021/acs.chemmater.8b04447. [pdf](/papers/10.1021/acs.chemmater.8b04447.pdf)
 
