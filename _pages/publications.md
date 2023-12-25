@@ -7,7 +7,7 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
--	Saman Moniri, Yao Yang, Jun Ding, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, and Jianwei Miao. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys, Nature, 624(7992):564–569, December 2023. https://10.1038/s41586-023-06785-z. [pdf](files/paper1.pdf)
+-	Saman Moniri, Yao Yang, Jun Ding, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, and Jianwei Miao. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys, Nature, 624(7992):564–569, December 2023. https://10.1038/s41586-023-06785-z. [pdf](/files/paper1.pdf)
 
 -	Tao Jin*, Long Yang*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / I-V-VI2 thermoelectrics, InfoMat, Page e12502, November 2023. https://10.1002/inf2.12502. 2023 (Co-first author, IF=24.8).
 
