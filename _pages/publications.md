@@ -7,9 +7,9 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
--	Saman Moniri, Yao Yang, Jun Ding, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, and Jianwei Miao. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys, Nature, 624(7992):564–569, December 2023. https:// doi.org/10.1038/s41586-023-06785-z. [pdf](/papers/10.1038/s41586-023-06785-z.pdf)
+-	Saman Moniri, Yao Yang, Jun Ding, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, and Jianwei Miao. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys, Nature, 624(7992):564–569, December 2023. https://doi.org/10.1038/s41586-023-06785-z. [pdf](/papers/10.1038/s41586-023-06785-z.pdf)
 
--	Tao Jin*, Long Yang*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / I-V-VI2 thermoelectrics, InfoMat, Page e12502, November 2023. https:// doi.org/10.1002/inf2.12502. 2023 (Co-first author, IF=24.8). [pdf](/papers/10.1002/inf2.12502. 2023.pdf)
+-	Tao Jin*, Long Yang*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / I-V-VI2 thermoelectrics, InfoMat, Page e12502, November 2023. https://doi.org/10.1002/inf2.12502. (Co-first author, IF=24.8). [pdf](/papers/10.1002/inf2.12502. 2023.pdf)
 
 -	Yuchen Shang, Mingguang Yao, Zhaodong Liu, Rong Fu, Longbiao Yan, Long Yang, Zhongyin Zhang,Jiajun Dong, Chunguang Zhai, Xuyuan Hou, Liting Fei, GuanJie Zhang, Jianfeng Ji, Jie Zhu, He Lin, Bertil Sundqvist, and Bingbing Liu. Enhancement of short/medium-range order and thermal conductivity in ultrahard sp3 amorphous carbon by C70 precursor, Nature Communications, 14(1):7860, November 2023. https://doi.org/10.1038/s41467-023-42195-5. [pdf](/papers/10.1038/s41467-023-42195-5.pdf)
 
@@ -21,7 +21,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Muhammad Boota, Tanveer Hussain, Long Yang, Matthieu Bécuwe, William Porzio, Luisa Barba, and Rajeev Ahuja. Mechanistic Understanding of the Interactions and Pseudocapacitance of Multi-Electron Redox Organic Molecules Sandwiched between MXene Layers, Advanced Electronic Materials, 7(4):2001202, March 2021. https://doi.org/10.1002/aelm.202001202. [pdf](/papers/10.1002/aelm.202001202.pdf)
 
--	Long Yang, Elizabeth A. Culbertson, Nancy K. Thomas, Hung T. Vuong, Emil T. S. Kjær, Kirsten M. Ø Jensen, Matthew G. Tucker, and Simon J. L. Billinge. A Cloud Platform for Atomic Pair Distribution Function Analysis: PDFitc, Acta Crystallographica Section A: Foundations and Advances, 77(1):2–6, January 2021.  https://doi.org/10.1107/S2053273320013066. [pdf](/papers/0.1107/S2053273320013066.pdf)
+-	Long Yang, Elizabeth A. Culbertson, Nancy K. Thomas, Hung T. Vuong, Emil T. S. Kjær, Kirsten M. Ø Jensen, Matthew G. Tucker, and Simon J. L. Billinge. A Cloud Platform for Atomic Pair Distribution Function Analysis: PDFitc, Acta Crystallographica Section A: Foundations and Advances, 77(1):2–6, January 2021.  https://doi.org/10.1107/S2053273320013066. [pdf](/papers/10.1107/S2053273320013066.pdf)
 
 -	Long Yang, Robert J. Koch, Hong Zheng, John F. Mitchell, Weiguo Yin, Matthew G. Tucker, Simon J. L. Billinge, and Emil S. Bozin. Two-Orbital Degeneracy Lifted Local Precursor to a Metal-Insulator Transition in MgTi2O4, Physical Review B, 102(23):235128, December 2020. https://doi.org/10.1103/PhysRevB.102.235128. [pdf](/papers/10.1103/PhysRevB.102.235128.pdf)
 
@@ -35,7 +35,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Wei Cao, Long Yang, Stéphane Auffret, and William E. Bailey. Nearly Isotropic Spin-Pumping Related Gilbert Damping in Pt/Ni81Fe19/Pt, Physical Review B, 99(9):094406, March 2019. https://doi.org/10.1103/PhysRevB.99.094406. [pdf](/papers/10.1103/PhysRevB.99.094406.pdf)
 
--	Xu Xiao, Patrick Urbankowski, Kanit Hantanasirisakul, Yao Yang, Stephen Sasaki, Long Yang, Chi Chen, et al. Scalable Synthesis of Ultrathin Mn3N2 Exhibiting Room-Temperature Antiferromagnetism.” Advanced Functional Materials, 29(17):1809001, March 2019. https://doi.org/10.1002/adfm.201809001. [pdf](/papers/10.1002/adfm.201809001.pdf)
+-	Xu Xiao, Patrick Urbankowski, Kanit Hantanasirisakul, Yao Yang, Stephen Sasaki, Long Yang, Chi Chen, et al. Scalable Synthesis of Ultrathin Mn3N2 Exhibiting Room-Temperature Antiferromagnetism. Advanced Functional Materials, 29(17):1809001, March 2019. https://doi.org/10.1002/adfm.201809001. [pdf](/papers/10.1002/adfm.201809001.pdf)
 
 -	Julien Lombardi, Long Yang, Frederick A. Pearsall, Nasim Farahmand, Zheng Gai, Simon J. L. Billinge, and Stephen O’Brien. Stoichiometric Control over Ferroic Behavior in Ba(Ti1–xFex)O3 Nanocrystals, Chemistry of Materials, 31(4):1318–1335, February 2019. https://doi.org/10.1021/acs.chemmater.8b04447. [pdf](/papers/10.1021/acs.chemmater.8b04447.pdf)
 
