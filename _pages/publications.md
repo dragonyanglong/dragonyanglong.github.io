@@ -9,7 +9,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 - Saman Moniri, Yao Yang, Jun Ding, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, and Jianwei Miao. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys, Nature, 624(7992):564–569, December 2023. https://doi.org/10.1038/s41586-023-06785-z. [pdf](/files/papers/10.1038:s41586-023-06785-z.pdf)
 
--	Tao Jin*, Long Yang*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / I-V-VI2 thermoelectrics, InfoMat, Page e12502, November 2023. https://doi.org/10.1002/inf2.12502. (Co-first author, IF=24.8). [pdf](/files /papers/10.1002:inf2.12502. 2023.pdf)
+-	Tao Jin*, Long Yang*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI / I-V-VI2 thermoelectrics, InfoMat, Page e12502, November 2023. https://doi.org/10.1002/inf2.12502. (Co-first author, IF=24.8). [pdf](/files/papers/10.1002:inf2.12502.2023.pdf)
 
 -	Yuchen Shang, Mingguang Yao, Zhaodong Liu, Rong Fu, Longbiao Yan, Long Yang, Zhongyin Zhang,Jiajun Dong, Chunguang Zhai, Xuyuan Hou, Liting Fei, Guanjie Zhang, Jianfeng Ji, Jie Zhu, He Lin, Bertil Sundqvist, and Bingbing Liu. Enhancement of short/medium-range order and thermal conductivity in ultrahard sp3 amorphous carbon by C70 precursor, Nature Communications, 14(1):7860, November 2023. https://doi.org/10.1038/s41467-023-42195-5. [pdf](/files/papers/10.1038:s41467-023-42195-5.pdf)
 
