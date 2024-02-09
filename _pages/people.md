@@ -26,7 +26,7 @@ author_profile: true
 
 <h1>Principal Investigator</h1>
 
-<image align="left" width="150" height="200" src="/images/profile.png">
+<image align="left" width="150" height="200" src="/images/people/yanglong.png">
 <p>
 <b>Long Yang (杨龙)</b> <br>
 Assistant Professor <br>
