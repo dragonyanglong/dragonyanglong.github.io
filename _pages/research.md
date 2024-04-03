@@ -9,7 +9,7 @@ research facilities:
 
 <b>Computation</b>
 <br>
-We develop advanced data science algorithms, including machine learning, deep learning, data mining, to solve scientific 
+We develop advanced data science algorithms, including deep learning and data mining, to resolve important scientific 
 questions that can hardly be answered by traditional studies.
 <div>
 <image width="800" height="800" src="/images/research/research_overview.jpg">
@@ -22,6 +22,7 @@ questions that can hardly be answered by traditional studies.
 <b>Experiment</b>
 <br>
 We travel and perform synchrotron x-ray, neutron, and electron scientific experiments across the world.
+<br>
 <br>
 
 <b>Synchrotron x-rays:</b>
