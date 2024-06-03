@@ -44,6 +44,8 @@ For detailed news, please see [here](https://mp.weixin.qq.com/s/w7Ki-KVoPjS9Bgnl
 该项目收到了上海市级大学生创新创业训练项目以及同济大学"卓越科创育人"师生课外创新专项院系培育优秀项目的支持，还获得了第九届同济大学大学生创新创业论坛成长组一等奖，
 中国国际“互联网+”大学生创新创业大赛同济大学校内赛铜奖等奖项。
 
+具体新闻报道见[链接](https://mp.weixin.qq.com/s/w7Ki-KVoPjS9BgnlB0mLOg)。
+
 <image align="left" height="300" src="/images/news/202305youthgold-1.jpeg"></image>
 <br>
 <br>
