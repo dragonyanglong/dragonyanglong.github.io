@@ -46,7 +46,7 @@ For detailed news, please see [here](https://mp.weixin.qq.com/s/w7Ki-KVoPjS9Bgnl
 
 具体新闻报道见[链接](https://mp.weixin.qq.com/s/w7Ki-KVoPjS9BgnlB0mLOg)。
 
-<image align="left" height="300" src="/images/news/202305youthgold-1.jpeg"></image>
+<image align="left" height="300" src="/images/news/202405youthgold-1.jpeg"></image>
 <br>
 <br>
 <br>
@@ -58,4 +58,4 @@ For detailed news, please see [here](https://mp.weixin.qq.com/s/w7Ki-KVoPjS9Bgnl
 <br>
 <br>
 <br>
-<image align="left" height="300" src="/images/news/202305youthgold-2.jpg"></image>
+<image align="left" height="300" src="/images/news/202405youthgold-2.jpg"></image>
