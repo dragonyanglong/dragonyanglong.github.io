@@ -132,7 +132,6 @@ Email: long_yang@tongji.edu.cn <br>
 
 
 <h1>Alumni</h1>
-<p>
-Jie Dong (董杰) (PhD candidate at Zhejiang University) <br>
-</p>
+- Jie Dong (董杰) (PhD candidate at Zhejiang University)
+
 <br>
