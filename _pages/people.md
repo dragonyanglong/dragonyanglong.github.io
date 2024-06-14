@@ -63,12 +63,14 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/chenguanqing.png">
 <p>
 <b>Guanqing Chen (陈关清)</b> <br>
 2019-Now B.S. Tongji University <br>
 </p>
+<br>
 <br>
 <br>
 <br>
@@ -131,7 +133,6 @@ Email: long_yang@tongji.edu.cn <br>
 
 <h1>Alumni</h1>
 <p>
-[//]: # (<b>Guanqing Chen &#40;陈关清&#41;</b> &#40;Engineer&#41; <br>)
-<b>Jie Dong (董杰)</b> (PhD candidate at Zhejiang University) <br>
+Jie Dong (董杰) (PhD candidate at Zhejiang University) <br>
 </p>
 <br>
