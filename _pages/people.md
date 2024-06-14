@@ -73,6 +73,7 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/lishiqi.jpg">
 <p>
@@ -83,12 +84,14 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 <br>
+<br>
 
 <image align="left" width="150" height="200" src="/images/people/sunping.jpg">
 <p>
 <b>Ping Sun (孙萍)</b> <br>
 2021-Now B.S. Tongji University <br>
 </p>
+<br>
 <br>
 <br>
 <br>
