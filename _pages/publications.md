@@ -7,6 +7,8 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
+-	Xiaoyu Zhang, Changyuan Li, Yuting Meng, Long Yang\*, and Wen Li\*. Intrinsically atomic-disordered LuCuTe2 as a promising thermoelectric material, ACS Applied Energy Materials, July 2024. https://doi.org/10.1021/acsaem.4c00763. [pdf](/files/papers/10.1021:acsaem.4c00763.pdf)
+
 -	Julien Lombardi, Long Yang, Nasim Farahmand, Anthony Ruffino, Ali Younes, Jonathan E. Spanier, Simon J. L. Billinge, and Stephen O’Brien. Structure and phase transitions in niobium and tantalum derived nanoscale transition metal perovskites, Ba(Ti,MV)O3, M=Nb,Ta, The Journal of Chemical Physics (Special Collection: Festschrift in honor of Louis E. Brus), 160(13):134702, April 2024. https://doi.org/10.1063/5.0192488. [pdf](/files/papers/10.1063:5.0192488.pdf)
 
 -	Tao Jin\*, Long Yang\*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI/I-V-VI2 thermoelectrics, InfoMat, 6(2):e12502, February 2024. https://doi.org/10.1002/inf2.12502. (Co-first author). [pdf](/files/papers/10.1002:inf2.12502.pdf)
