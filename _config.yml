@@ -189,9 +189,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  resources:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -221,15 +219,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _resources
-  - scope:
-      path: ""
-      type: resources
-    values:
-      layout: single
-      author_profile: true
-      share: false
       comments: true
   # _publications
   - scope:

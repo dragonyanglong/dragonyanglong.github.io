@@ -16,18 +16,20 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Resources"
-    url: /resources/
-
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
 
+  - title: "Resources"
+    url: /resources/
     
   # - title: "Guide"
   #   url: /markdown/
