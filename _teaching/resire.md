@@ -2,7 +2,7 @@
 title: "REal Space Iterative Reconstruction"
 collection: resources
 type: "Software"
-permalink: /resources/addie
+permalink: /resources/resire
 date: 2023
 ---
 
