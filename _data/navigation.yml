@@ -29,7 +29,7 @@ main:
     url: /cv/
 
   - title: "Resources"
-    url: /_resources/
+    url: /resources/
     
   # - title: "Guide"
   #   url: /markdown/
