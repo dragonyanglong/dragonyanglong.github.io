@@ -3,6 +3,9 @@ title: "PDF in the Cloud"
 collection: resources
 type: "Software"
 permalink: /resources/pdfitc
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 PDF in the Cloud (pdfitc.org) is a cloud-based platform for pair distribution function (PDF) data analysis. 
