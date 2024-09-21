@@ -189,7 +189,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  resources:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -211,7 +213,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _resources
+  # _teaching
   - scope:
       path: ""
       type: teaching
