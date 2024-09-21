@@ -15,4 +15,3 @@ Link: [addie.ornl.gov](https://addie.ornl.gov){:target="_blank"}
 
 <image align="left" height="300" src="/images/resources/addie.png"></image>
 <br>
-<br>

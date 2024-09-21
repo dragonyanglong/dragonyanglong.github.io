@@ -11,3 +11,6 @@ It iterates between the update of a reconstructed 3D object and the measured pro
 The source codes are available in the following link.
 
 Link: [RESIRE](https://zenodo.org/records/7819857){:target="_blank"}
+
+<image align="left" height="300" src="/images/resources/resire.jpg"></image>
+<br>
