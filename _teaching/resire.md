@@ -3,6 +3,7 @@ title: "REal Space Iterative Reconstruction"
 collection: resources
 type: "Software"
 permalink: /resources/addie
+date: 2023
 ---
 
 REal Space Iterative Reconstruction (RESIRE) is an advanced algorithm for reconstructing a 3D object from a set of 2D projections, i.e., tomography.

@@ -3,6 +3,7 @@ title: "ADvanced DIffraction Environment"
 collection: resources
 type: "Software"
 permalink: /resources/addie
+date: 2022
 ---
 
 ADvanced DIffraction Environment (ADDIE) is a cloud-based comprehensive platform for hosting tools for neutron powder 
