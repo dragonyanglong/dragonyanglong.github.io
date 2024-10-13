@@ -7,7 +7,9 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
--	Xia Qi\*, Te Kang\*, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Simultaneous suppression of phonon transport and carrier concentration for efficient rhombohedral GeTe thermoelectric, Advanced Science, September 2024. https://doi.org/ 10.1002/advs.202407413. [pdf](/files/papers/ 10.1002:advs.202407413.pdf)
+-	Long Yang\*, Te Kang, Juping Xu\*, and Wen Yin. Unveiling Short-Range Magnetic Correlations: The Development of Magnetic Pair Distribution Function Method at CSNS, Nucl. Instrum. Methods Phys. Res. A, page 169967, October 2024. https://doi.org/10.1016/j.nima.2024.169967. (Co-corresponding author) [pdf](/files/papers/10.1016:j.nima.2024.169967.pdf)
+
+-	Xia Qi, Te Kang, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Simultaneous suppression of phonon transport and carrier concentration for efficient rhombohedral GeTe thermoelectric, Advanced Science, September 2024. https://doi.org/10.1002/advs.202407413. [pdf](/files/papers/10.1002:advs.202407413.pdf)
 
 -   Xiaoyu Zhang, Changyuan Li, Yuting Meng, Long Yang\*, and Wen Li\*. Intrinsically atomic-disordered LuCuTe2 as a promising thermoelectric material, ACS Applied Energy Materials, July 2024. https://doi.org/10.1021/acsaem.4c00763. (Co-corresponding author). [pdf](/files/papers/10.1021:acsaem.4c00763.pdf)
 
