@@ -7,7 +7,9 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
--	Long Yang\*, Te Kang, Juping Xu\*, and Wen Yin. Unveiling Short-Range Magnetic Correlations: The Development of Magnetic Pair Distribution Function Method at CSNS, Nucl. Instrum. Methods Phys. Res. A, page 169967, October 2024. https://doi.org/10.1016/j.nima.2024.169967. (Co-corresponding author) [pdf](/files/papers/10.1016:j.nima.2024.169967.pdf)
+-	Long Yang\*, Te Kang, Juping Xu\*, and Wen Yin. Unveiling short-range magnetic correlations: The development of magnetic pair distribution function method at CSNS, Nucl. Instrum. Methods Phys. Res. A, 1069:169967, December 2024. https://doi.org/10.1016/j.nima.2024.169967. (Co-corresponding author) [pdf](/files/papers/10.1016:j.nima.2024.169967.pdf)
+
+- Yixin Hu, Xinyi Shen, Zhiwei Chen, Min Liu, Xinyue Zhang, Long Yang, Jun Luo, Wen Li, and Yanzhong Pei. Superior bendability enabled by inherent in-plane elasticity in Bi2Te3 thermoelectrics, Mater. Today Phys., 48:101570, November 2024. https://doi.org/10.1016/j.mtphys.2024.101570. [pdf](/files/papers/10.1016:j.mtphys.2024.101570.pdf)
 
 -	Xia Qi, Te Kang, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Simultaneous suppression of phonon transport and carrier concentration for efficient rhombohedral GeTe thermoelectric, Advanced Science, September 2024. https://doi.org/10.1002/advs.202407413. [pdf](/files/papers/10.1002:advs.202407413.pdf)
 
