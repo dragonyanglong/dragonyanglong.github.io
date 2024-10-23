@@ -13,7 +13,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Xia Qi, Te Kang, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Simultaneous suppression of phonon transport and carrier concentration for efficient rhombohedral GeTe thermoelectric, Advanced Science, September 2024. https://doi.org/10.1002/advs.202407413. [pdf](/files/papers/10.1002:advs.202407413.pdf)
 
--   Xiaoyu Zhang, Changyuan Li, Yuting Meng, Long Yang\*, and Wen Li\*. Intrinsically atomic-disordered LuCuTe2 as a promising thermoelectric material, ACS Applied Energy Materials, July 2024. https://doi.org/10.1021/acsaem.4c00763. (Co-corresponding author). [pdf](/files/papers/10.1021:acsaem.4c00763.pdf)
+-	Xiaoyu Zhang, Changyuan Li, Yuting Meng, Long Yang\*, and Wen Li\*. Intrinsically atomic-disordered LuCuTe2 as a promising thermoelectric material, ACS Appl. Energy Mater., 7(14):5728–5735, July 2024. https://doi.org/10.1021/acsaem.4c00763. (Co-corresponding author). [pdf](/files/papers/10.1021:acsaem.4c00763.pdf)
 
 -	Julien Lombardi, Long Yang, Nasim Farahmand, Anthony Ruffino, Ali Younes, Jonathan E. Spanier, Simon J. L. Billinge, and Stephen O’Brien. Structure and phase transitions in niobium and tantalum derived nanoscale transition metal perovskites, Ba(Ti,MV)O3, M=Nb,Ta, The Journal of Chemical Physics (Special Collection: Festschrift in honor of Louis E. Brus), 160(13):134702, April 2024. https://doi.org/10.1063/5.0192488. [pdf](/files/papers/10.1063:5.0192488.pdf)
 
