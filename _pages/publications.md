@@ -11,11 +11,13 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Long Yang\*, Te Kang, Juping Xu\*, and Wen Yin. Unveiling short-range magnetic correlations: The development of magnetic pair distribution function method at CSNS, Nucl. Instrum. Methods Phys. Res. A, 1069:169967, December 2024. https://doi.org/10.1016/j.nima.2024.169967. (Corresponding author) [pdf](/files/papers/10.1016:j.nima.2024.169967.pdf)
 
+-	Xia Qi, Te Kang, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Simultaneous suppression of phonon transport and carrier concentration for efficient rhombohedral GeTe thermoelectric, Adv. Sci., 11(47):2407413, December 2024. https://doi.org/10.1002/advs.202407413. [pdf](/files/papers/10.1002:advs.202407413.pdf)
+
 -   Yixin Hu, Xinyi Shen, Zhiwei Chen, Min Liu, Xinyue Zhang, Long Yang, Jun Luo, Wen Li, and Yanzhong Pei. Superior bendability enabled by inherent in-plane elasticity in Bi2Te3 thermoelectrics, Mater. Today Phys., 48:101570, November 2024. https://doi.org/10.1016/j.mtphys.2024.101570. [pdf](/files/papers/10.1016:j.mtphys.2024.101570.pdf)
 
--	Xia Qi, Te Kang, Long Yang, Xinyue Zhang, Wen Li, and Yanzhong Pei. Simultaneous suppression of phonon transport and carrier concentration for efficient rhombohedral GeTe thermoelectric, Advanced Science, September 2024. https://doi.org/10.1002/advs.202407413. [pdf](/files/papers/10.1002:advs.202407413.pdf)
+-	Tao Jin\*, Long Yang\*, Di Zhang, Xiaoyu Yang, Xinyue Zhang, Te Kang, Binghui Ge, Pengfei Nan, Wen Li, and Yanzhong Pei. Designing semiconductors from the assembly of close-packed slabs, Chem. Mater., 36(22):11189–11199, November 2024. https://doi.org/10.1021/acs.chemmater.4c02062. (Co-first author). [pdf](/files/papers/10.1021:acs.chemmater.4c02062.pdf)
 
--	Heng Liu, Huanhuan Niu, Wei-Hsiang Huang, Ting Shen, Changyuan Li, Chun-Chi Chang, Menghao Yang, Chenlong Gao, Long Yang, Quan Zong, Yanzhong Pei, Guozhong Cao, and Chaofeng Liu. Unveiling the Local Structure and the Ligand Field of Organic Cation Preintercalated Vanadate Cathode for Aqueous Zinc-Ion Batteries, ACS Energy Lett., pages 5492–5501, October 2024. https://doi.org/10.1021/acsenergylett.4c02709. [pdf](/files/papers/10.1021:acsenergylett.4c02709.pdf)
+-   Heng Liu, Huanhuan Niu, Wei-Hsiang Huang, Ting Shen, Changyuan Li, Chun-Chi Chang, Menghao Yang, Chenlong Gao, Long Yang, Quan Zong, Yanzhong Pei, Guozhong Cao, and Chaofeng Liu. Unveiling the Local Structure and the Ligand Field of Organic Cation Preintercalated Vanadate Cathode for Aqueous Zinc-Ion Batteries, ACS Energy Lett., 9(11):5492–5501, October 2024. https://doi.org/10.1021/acsenergylett.4c02709. [pdf](/files/papers/10.1021:acsenergylett.4c02709.pdf)
 
 -	Huanhuan Niu, Heng Liu, Long Yang, Te Kang, Ting Shen, Bingqi Jiang, Wei-Hsiang Huang, Chun-Chi Chang, Yanzhong Pei, Guozhong Cao, and Chaofeng Liu. Impacts of distorted local chemical coordination on electrochemical performance in hydrated vanadium pentoxide, Nat. Commun., 15(1):9421, October 2024. https://doi.org/10.1038/s41467-024-53785-2. [pdf](/files/papers/10.1038:s41467-024-53785-2.pdf)
 
