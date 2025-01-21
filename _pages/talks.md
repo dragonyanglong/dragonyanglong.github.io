@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-- The PDF Atomic Local Structure Characterization on Materials, 2024 Quzhou International Conference on Energy Materials, Quzhou, Zhejiang, China, November 2024 (Invited Talk)
+- Atomic Local Structures and Pair Distribution Function, 2024 Fall Semester Harbin Institute of Technology (Shenzhen) PhD Course, Shenzhen, Guangdong, China, December 2024 (Invited Talk)
 
 - PDF Local Structure Characterization and Chemical Short-Range Ordering, The 13th China Congress on Particle Technology, Suzhou, Jiangsu, China, October 2024 (Invited Talk)
 
-- Atomic Local Structures and Low Lattice Thermal Conductivity Matetrials, The 16th Chinese Conference on Thermoelectric Materials and Applications, Chongqing,, China, October 2024 (Invited Talk)
+- Atomic Local Structures and Low Lattice Thermal Conductivity Matetrials, The 16th Chinese Conference on Thermoelectric Materials and Applications, Chongqing, China, October 2024 (Invited Talk)
 
 - PDF Local Structure Generative Model Algorithms, Committee Member Meeting of the Local Structure and Total Scattering Technique Committee of the Chinese Crystallographic Society, Xining, Qinghai, China, July 2024 (Invited Talk, Committee Member)
 
