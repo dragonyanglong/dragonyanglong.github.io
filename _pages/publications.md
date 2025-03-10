@@ -7,6 +7,12 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
+-	Di Zhang, Min Liu, Tao Jin, Long Yang*, Wen Li*, and Yanzhong Pei*, (AgSbTe2)1-x(Bi2Te3)x-based thermoelectric device for low-grade heat recovery, Mater. Today Phys., 52:101692, March 2025. https://doi.org/10.1016/j.mtphys.2025.101692. (Co-corresponding author). [pdf](/files/papers/10.1016:j.mtphys.2025.101692.pdf)
+
+-	Shanshan Hu, Min Liu, Long Yang, Zhiwei Chen, Jun Luo, Wen Li, Yanzhong Pei, Effective diffusion barrier layer enables a robust CdSb-based thermoelectric single-leg device, J. Power Source, 630:236102, February 2025. https://doi.org/10.1016/j.jpowsour.2024.236102. [pdf](files/papers/10.1016:j.jpowsour.2024.236102.pdf)
+
+-	Heng Liu*, Long Yang*, Ting Shen, Changyuan Li, Te Kang, Huanhuan Niu, Wei-Hsiang Huang, Chun-Chi Chang, Menghao Yang, Guozhong Cao, and Chaofeng Liu, Distorting Local Structures to Modulate Ligand Fields in Vanadium Oxide for High-Performance Aqueous Zinc-Ion Batteries, ACS Nano, 630:236102, February 2025. https://doi.org/10.1021/acsnano.4c18250. (Co-first author). [pdf](files/papers/10.1021:acsnano.4c18250.pdf)
+
 -	Hyderkhan Renuka, Morgan Chen, Shwetha Sunil Kumar, Long Yang, Michael T. Lanagan, Sanjit Ghose, and B. Reeja-Jayan. Energy-efficient synthesis of Ti3C2Tx MXene for electromagnetic shielding, Mater. Sci. Semicond. Process., 185:108966, January 2025. https://doi.org/10.1016/j.mssp.2024.108966. [pdf](/files/papers/10.1016:j.mssp.2024.108966.pdf)
 
 -	Long Yang\*, Te Kang, Juping Xu\*, and Wen Yin. Unveiling short-range magnetic correlations: The development of magnetic pair distribution function method at CSNS, Nucl. Instrum. Methods Phys. Res. A, 1069:169967, December 2024. https://doi.org/10.1016/j.nima.2024.169967. (Corresponding author) [pdf](/files/papers/10.1016:j.nima.2024.169967.pdf)
