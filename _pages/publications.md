@@ -7,6 +7,9 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
+Ma Jiwei Small
+
+-   Shasha Guo, Mohamed Ait Tamerd*, Changyuan Li, Xinyue Shi, Menghao Yang, Jingrong Hou, Jie Liu, Mingxue Tang, Shu-Chih Haw, Chien-Te Chen, Ting-Shan Chan, Chang-Yang Kuo, Zhiwei Hu, Long Yang*, and Jiwei Ma*, Activating Sodium Intercalation in Cation-Deficient Fe3O4 through Mo Substitution. Small, 2025. (Co-corresponding author) (Accepted).
 -	Di Zhang, Min Liu, Tao Jin, Long Yang*, Wen Li*, and Yanzhong Pei*, (AgSbTe2)1-x(Bi2Te3)x-based thermoelectric device for low-grade heat recovery, Mater. Today Phys., 52:101692, March 2025. https://doi.org/10.1016/j.mtphys.2025.101692. (Co-corresponding author). [pdf](/files/papers/10.1016:j.mtphys.2025.101692.pdf)
 
 -	Shanshan Hu, Min Liu, Long Yang, Zhiwei Chen, Jun Luo, Wen Li, Yanzhong Pei, Effective diffusion barrier layer enables a robust CdSb-based thermoelectric single-leg device, J. Power Source, 630:236102, February 2025. https://doi.org/10.1016/j.jpowsour.2024.236102. [pdf](files/papers/10.1016:j.jpowsour.2024.236102.pdf)
