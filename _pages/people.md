@@ -145,7 +145,9 @@ Email: long_yang@tongji.edu.cn <br>
 
 <h1>Alumni</h1>
 - Zuke Xiao (肖祖柯, 25 BS) (MS Candidate at Tongji University)
+
 - Jie Dong (董杰, 24 BS) (PhD candidate at Zhejiang University)
+
 - Guanqing Chen (陈关清, 23 BS) (Engineer in Industry)
 
 <br>
