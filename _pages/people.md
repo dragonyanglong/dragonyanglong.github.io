@@ -65,6 +65,18 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
+<image align="left" width="150" height="200" src="/images/people/chengyueyue.jpeg">
+<p>
+<b>Yueyue Cheng (程悦悦)</b> <br>
+2024-Now Ph.D. Tongji University <br>
+2020-2024 B.S. Soochow University <br>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <image align="left" width="150" height="200" src="/images/people/chenguanqing.png">
 <p>
 <b>Guanqing Chen (陈关清)</b> <br>
@@ -132,7 +144,8 @@ Email: long_yang@tongji.edu.cn <br>
 
 
 <h1>Alumni</h1>
-- Jie Dong (董杰, 24 BS) (PhD candidate at Zhejiang University)
 - Zuke Xiao (肖祖柯, 25 BS) (MS Candidate at Tongji University)
+- Jie Dong (董杰, 24 BS) (PhD candidate at Zhejiang University)
+- Guanqing Chen (陈关清, 23 BS) (Engineer in Industry)
 
 <br>
