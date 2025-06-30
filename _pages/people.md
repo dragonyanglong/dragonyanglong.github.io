@@ -119,10 +119,10 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/xiaozuke.png">
+<image align="left" width="150" height="200" src="/images/people/yanzhiyang.jpg">
 <p>
-<b>Zuke Xiao (肖祖柯)</b> <br>
-2021-Now B.S. Tongji University <br>
+<b>Zhiyang Yan (鄢之阳)</b> <br>
+2022-Now B.S. Tongji University <br>
 </p>
 <br>
 <br>
@@ -133,5 +133,6 @@ Email: long_yang@tongji.edu.cn <br>
 
 <h1>Alumni</h1>
 - Jie Dong (董杰) (PhD candidate at Zhejiang University)
+- Zuke Xiao (肖祖柯) (MS Candidate at Tongji University)
 
 <br>
