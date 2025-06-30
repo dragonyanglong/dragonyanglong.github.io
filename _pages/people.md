@@ -132,7 +132,7 @@ Email: long_yang@tongji.edu.cn <br>
 
 
 <h1>Alumni</h1>
-- Jie Dong (董杰) (PhD candidate at Zhejiang University)
-- Zuke Xiao (肖祖柯) (MS Candidate at Tongji University)
+- Jie Dong (董杰, 24'BS) (PhD candidate at Zhejiang University)
+- Zuke Xiao (肖祖柯, 25'BS) (MS Candidate at Tongji University)
 
 <br>
