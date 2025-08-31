@@ -22,12 +22,4 @@ Through case studies such as the analysis of phase transition mechanisms in lith
 
 本次暑期学校以“光源驱动工业创新”为主题，课程深度剖析了同步辐射光源与自由电子激光在物质微观结构探测领域的革命性能力。
 
-
-<image align="left" width="500" height="300" src="/images/news/202507photonschool.jpeg"></image>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<image align="left" width="500" height="300" src="/images/news/202507photonschool.jpg"></image>
