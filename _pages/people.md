@@ -130,8 +130,36 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
+<image align="left" width="150" height="200" src="/images/people/panhaoyu.jpeg">
+<p>
+<b>Haoyu Pan (潘昊宇)</b> <br>
+2021-2025 B.S. Fuzhou University <br>
+2025-Now M.S. Tongji University <br>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<image align="left" width="150" height="200" src="/images/people/lixuyang.jpeg">
+<p>
+<b>Xuyang Li (李旭阳)</b> <br>
+2021-2025 B.S. Fuzhou University <br>
+2025-Now M.S. Tongji University <br>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <h1>Alumni</h1>
+- Shiqi Li (李施奇, 25 BS) (MS Candidate at Tsinghua University)
+<br>
+- Ping Sun (孙萍, 25 BS) (MS Candidate at the University of Science and Technology of China)
+<br>
 - Zuke Xiao (肖祖柯, 25 BS) (MS Candidate at Tongji University)
 <br>
 - Jie Dong (董杰, 24 BS) (PhD candidate at Zhejiang University)
