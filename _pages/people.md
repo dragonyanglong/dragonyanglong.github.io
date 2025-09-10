@@ -111,8 +111,8 @@ Email: long_yang@tongji.edu.cn <br>
 <image align="left" width="150" height="200" src="/images/people/panhaoyu.jpeg">
 <p>
 <b>Haoyu Pan (潘昊宇)</b> <br>
-2021-2025 B.S. Fuzhou University <br>
 2025-Now M.S. Tongji University <br>
+2021-2025 B.S. Fuzhou University <br>
 </p>
 <br>
 <br>
@@ -123,8 +123,8 @@ Email: long_yang@tongji.edu.cn <br>
 <image align="left" width="150" height="200" src="/images/people/lixuyang.jpeg">
 <p>
 <b>Xuyang Li (李旭阳)</b> <br>
-2021-2025 B.S. Fuzhou University <br>
 2025-Now M.S. Tongji University <br>
+2021-2025 B.S. Fuzhou University <br>
 </p>
 <br>
 <br>
