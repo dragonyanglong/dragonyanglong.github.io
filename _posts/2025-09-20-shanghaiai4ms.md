@@ -19,4 +19,4 @@ By attending this forum, we have gained a more systematic and in-depth understan
 2025年9月20日，课题组成员们参加了由中国科学院上海硅酸盐研究所承办的"AI For Material Science"专题论坛。本次论坛聚焦AI赋能材料科学，包括材料多模态数据知识表示方法的建立、数据驱动的材料设计与优化等方面。 
 通过本次学习，我们对AI与材料科学深度融合的前沿方向有了更为系统和深刻的认知。
 
-<image align="left" width="500" height="300" src="/images/news/20509ai4ms.jpeg"></image>
+<image align="left" width="500" height="300" src="/images/news/20509ai4ms.jpg"></image>
