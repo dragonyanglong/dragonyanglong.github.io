@@ -7,6 +7,12 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
+-   Jiayi Li, Yiming Zhu, Changyuan Li, Qian Zhang, Ju Rong, Shasha Guo, Nicolas Alonso-Vante, Long Yang, Min-Hsin Yeh, Wei-Hsiang Huang, Xiaohua Yu, Hongfei Cheng, and Jiwei Ma. Boosting and stabilizing oxygen evolution reaction through Ru single atoms anchored amorphous NiMoOx electrocatalyst, Nat. Commun., 16(1):8827, October 2025. https://doi.org/10.1038/s41467-025-63870-9. [pdf](/files/papers/10.1038:s41467-025-63870-9.pdf)
+
+-   Haitao Wang, Te Kang, Long Yang\*, and Yanzhong Pei\*. Deciphering the functions of rubidium in structural stability and ionic conductivity of KAg4I5, J. Mater. Chem. A, September 2025. https://doi.org/10.1039/D5TA03873A. (Co-corresponding author). [pdf](/files/papers/10.1039:D5TA03873A.pdf)
+
+-   Rui Zhou, Ziyan Li, Shujing Yang, Xuemei Wang, Xinyi Shen, Long Yang, Zhiwei Chen, Juan Chen, and Wen Li. In situ formed nano-interlayer enables robust interface bonding in efficient Bi2Te3-based thermoelectric modules, J. Mater. Chem. A, September 2025. https://doi.org/10.1039/D5TA06391D. [pdf](/files/papers/10.1039:D5TA06391D.pdf)
+
 -   Huanhuan Niu, Heng Liu, Wei-Hsiang Huang, Ting Shen, Menghao Yang, Min-Hsin Yeh, Long Yang\*, and Chaofeng Liu\*. Enhanced Working Voltage in Hydrated Vanadate Cathodes: Insights into \[VO6\] Octahedral Distortion and V 3d Orbital Splitting, Advanced Functional Materials, e18785, August 2025. https://doi.org/10.1002/adfm.202518785. (Co-corresponding author). [pdf](/files/papers/10.1002:adfm.202518785.pdf)
 
 -   Shasha Guo, Mohamed Ait Tamerd\*, Changyuan Li, Xinyue Shi, Menghao Yang, Jingrong Hou, Jie Liu, Mingxue Tang, Shu-Chih Haw, Chien-Te Chen, Ting-Shan Chan, Chang-Yang Kuo, Zhiwei Hu, Long Yang\*, and Jiwei Ma\*, Activating Sodium Intercalation in Cation-Deficient Fe3O4 through Mo Substitution. Small, 2408212, March 2025. https://doi.org/10.1002/smll.202408212. (Co-corresponding author). [pdf](/files/papers/10.1002:smll.202408212.pdf)
