@@ -97,17 +97,6 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/yanzhiyang.jpg">
-<p>
-<b>Zhiyang Yan (鄢之阳)</b> <br>
-2022-Now B.S. Tongji University <br>
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <image align="left" width="150" height="200" src="/images/people/panhaoyu.jpeg">
 <p>
 <b>Haoyu Pan (潘昊宇)</b> <br>
