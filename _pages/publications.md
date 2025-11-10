@@ -7,6 +7,8 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
+-	Jing Li, Hongyao Zhang, Changyuan Li, Zhijun Wang, Tongsuo Lu, Long Yang\*, and He Lin\*. Application and development of three-dimensional differential pair distribution function method in Shanghai Synchrotron Radiation Facility, Nucl. Tech., 48(10):100101, October 2025. https://doi.org/10.3724/j.0253-3219.2025.hjs.48.240481. (Co-corresponding author). [pdf](/files/papers/10.3724:j.0253-3219.2025.hjs.48.240481.pdf)
+
 -   Jiayi Li, Yiming Zhu, Changyuan Li, Qian Zhang, Ju Rong, Shasha Guo, Nicolas Alonso-Vante, Long Yang, Min-Hsin Yeh, Wei-Hsiang Huang, Xiaohua Yu, Hongfei Cheng, and Jiwei Ma. Boosting and stabilizing oxygen evolution reaction through Ru single atoms anchored amorphous NiMoOx electrocatalyst, Nat. Commun., 16(1):8827, October 2025. https://doi.org/10.1038/s41467-025-63870-9. [pdf](/files/papers/10.1038:s41467-025-63870-9.pdf)
 
 -   Haitao Wang, Te Kang, Long Yang\*, and Yanzhong Pei\*. Deciphering the functions of rubidium in structural stability and ionic conductivity of KAg4I5, J. Mater. Chem. A, September 2025. https://doi.org/10.1039/D5TA03873A. (Co-corresponding author). [pdf](/files/papers/10.1039:D5TA03873A.pdf)
