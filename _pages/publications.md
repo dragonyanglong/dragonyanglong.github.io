@@ -7,13 +7,15 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
--	Jing Li, Hongyao Zhang, Changyuan Li, Zhijun Wang, Tongsuo Lu, Long Yang\*, and He Lin\*. Application and development of three-dimensional differential pair distribution function method in Shanghai Synchrotron Radiation Facility, Nucl. Tech., 48(10):100101, October 2025. https://doi.org/10.3724/j.0253-3219.2025.hjs.48.240481. (Co-corresponding author). [pdf](/files/papers/10.3724:j.0253-3219.2025.hjs.48.240481.pdf)
+-	Tao Shen, Changyuan Li, Yifan Wang, Zhaoqian Li, Menghao Yang, Long Yang, and Chaofeng Liu. Fluorinated aromatic anode-electrolyte interface for highly reversible zinc anode, Advanced Functional Materials, 35(47):2509705, November 2025. https://doi.org/10.1002/adfm.202509705. [pdf](/files/papers/10.1002:adfm.202509705.pdf)
 
--   Jiayi Li, Yiming Zhu, Changyuan Li, Qian Zhang, Ju Rong, Shasha Guo, Nicolas Alonso-Vante, Long Yang, Min-Hsin Yeh, Wei-Hsiang Huang, Xiaohua Yu, Hongfei Cheng, and Jiwei Ma. Boosting and stabilizing oxygen evolution reaction through Ru single atoms anchored amorphous NiMoOx electrocatalyst, Nat. Commun., 16(1):8827, October 2025. https://doi.org/10.1038/s41467-025-63870-9. [pdf](/files/papers/10.1038:s41467-025-63870-9.pdf)
+-	Jing Li, Hongyao Zhang, Changyuan Li, Zhijun Wang, Tongsuo Lu, Long Yang\*, and He Lin\*. Application and development of three-dimensional differential pair distribution function method in Shanghai Synchrotron Radiation Facility, Nuclear Techniques, 48(10):100101, October 2025. https://doi.org/10.3724/j.0253-3219.2025.hjs.48.240481. (Co-corresponding author). [pdf](/files/papers/10.3724:j.0253-3219.2025.hjs.48.240481.pdf)
 
--   Haitao Wang, Te Kang, Long Yang\*, and Yanzhong Pei\*. Deciphering the functions of rubidium in structural stability and ionic conductivity of KAg4I5, J. Mater. Chem. A, September 2025. https://doi.org/10.1039/D5TA03873A. (Co-corresponding author). [pdf](/files/papers/10.1039:D5TA03873A.pdf)
+-   Jiayi Li, Yiming Zhu, Changyuan Li, Qian Zhang, Ju Rong, Shasha Guo, Nicolas Alonso-Vante, Long Yang, Min-Hsin Yeh, Wei-Hsiang Huang, Xiaohua Yu, Hongfei Cheng, and Jiwei Ma. Boosting and stabilizing oxygen evolution reaction through Ru single atoms anchored amorphous NiMoOx electrocatalyst, Nature Communications, 16(1):8827, October 2025. https://doi.org/10.1038/s41467-025-63870-9. [pdf](/files/papers/10.1038:s41467-025-63870-9.pdf)
 
--   Rui Zhou, Ziyan Li, Shujing Yang, Xuemei Wang, Xinyi Shen, Long Yang, Zhiwei Chen, Juan Chen, and Wen Li. In situ formed nano-interlayer enables robust interface bonding in efficient Bi2Te3-based thermoelectric modules, J. Mater. Chem. A, September 2025. https://doi.org/10.1039/D5TA06391D. [pdf](/files/papers/10.1039:D5TA06391D.pdf)
+-   Haitao Wang, Te Kang, Long Yang\*, and Yanzhong Pei\*. Deciphering the functions of rubidium in structural stability and ionic conductivity of KAg4I5, Journal of Materials Chemistry A, September 2025. https://doi.org/10.1039/D5TA03873A. (Co-corresponding author). [pdf](/files/papers/10.1039:D5TA03873A.pdf)
+
+-   Rui Zhou, Ziyan Li, Shujing Yang, Xuemei Wang, Xinyi Shen, Long Yang, Zhiwei Chen, Juan Chen, and Wen Li. In situ formed nano-interlayer enables robust interface bonding in efficient Bi2Te3-based thermoelectric modules, Journal of Materials Chemistry A, September 2025. https://doi.org/10.1039/D5TA06391D. [pdf](/files/papers/10.1039:D5TA06391D.pdf)
 
 -   Huanhuan Niu, Heng Liu, Wei-Hsiang Huang, Ting Shen, Menghao Yang, Min-Hsin Yeh, Long Yang\*, and Chaofeng Liu\*. Enhanced Working Voltage in Hydrated Vanadate Cathodes: Insights into \[VO6\] Octahedral Distortion and V 3d Orbital Splitting, Advanced Functional Materials, e18785, August 2025. https://doi.org/10.1002/adfm.202518785. (Co-corresponding author). [pdf](/files/papers/10.1002:adfm.202518785.pdf)
 
@@ -21,9 +23,9 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -   Di Zhang, Min Liu, Tao Jin, Long Yang\*, Wen Li\*, and Yanzhong Pei\*, (AgSbTe2)1-x(Bi2Te3)x-based thermoelectric device for low-grade heat recovery, Materials Today Physics, 52:101692, March 2025. https://doi.org/10.1016/j.mtphys.2025.101692. (Co-corresponding author). [pdf](/files/papers/10.1016:j.mtphys.2025.101692.pdf)
 
--	Shanshan Hu, Min Liu, Long Yang, Zhiwei Chen, Jun Luo, Wen Li, Yanzhong Pei, Effective diffusion barrier layer enables a robust CdSb-based thermoelectric single-leg device, Journal of Power Sources, 630:236102, February 2025. https://doi.org/10.1016/j.jpowsour.2024.236102. [pdf](files/papers/10.1016:j.jpowsour.2024.236102.pdf)
+-	Heng Liu\*, Long Yang\*, Ting Shen, Changyuan Li, Te Kang, Huanhuan Niu, Wei-Hsiang Huang, Chun-Chi Chang, Menghao Yang, Guozhong Cao, and Chaofeng Liu, Distorting Local Structures to Modulate Ligand Fields in Vanadium Oxide for High-Performance Aqueous Zinc-Ion Batteries, ACS Nano, 19(9):9132–9143, March 2025. https://doi.org/10.1021/acsnano.4c18250. (Co-first author). [pdf](files/papers/10.1021:acsnano.4c18250.pdf)
 
--	Heng Liu\*, Long Yang\*, Ting Shen, Changyuan Li, Te Kang, Huanhuan Niu, Wei-Hsiang Huang, Chun-Chi Chang, Menghao Yang, Guozhong Cao, and Chaofeng Liu, Distorting Local Structures to Modulate Ligand Fields in Vanadium Oxide for High-Performance Aqueous Zinc-Ion Batteries, ACS Nano, 630:236102, February 2025. https://doi.org/10.1021/acsnano.4c18250. (Co-first author). [pdf](files/papers/10.1021:acsnano.4c18250.pdf)
+-	Shanshan Hu, Min Liu, Long Yang, Zhiwei Chen, Jun Luo, Wen Li, Yanzhong Pei, Effective diffusion barrier layer enables a robust CdSb-based thermoelectric single-leg device, Journal of Power Sources, 630:236102, February 2025. https://doi.org/10.1016/j.jpowsour.2024.236102. [pdf](files/papers/10.1016:j.jpowsour.2024.236102.pdf)
 
 -	Hyderkhan Renuka, Morgan Chen, Shwetha Sunil Kumar, Long Yang, Michael T. Lanagan, Sanjit Ghose, and B. Reeja-Jayan. Energy-efficient synthesis of Ti3C2Tx MXene for electromagnetic shielding, Materials Science in Semiconductor Processing, 185:108966, January 2025. https://doi.org/10.1016/j.mssp.2024.108966. [pdf](/files/papers/10.1016:j.mssp.2024.108966.pdf)
 
