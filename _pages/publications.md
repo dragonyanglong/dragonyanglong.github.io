@@ -13,6 +13,8 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -   Jiayi Li, Yiming Zhu, Changyuan Li, Qian Zhang, Ju Rong, Shasha Guo, Nicolas Alonso-Vante, Long Yang, Min-Hsin Yeh, Wei-Hsiang Huang, Xiaohua Yu, Hongfei Cheng, and Jiwei Ma. Boosting and stabilizing oxygen evolution reaction through Ru single atoms anchored amorphous NiMoOx electrocatalyst, Nature Communications, 16(1):8827, October 2025. https://doi.org/10.1038/s41467-025-63870-9. [pdf](/files/papers/10.1038:s41467-025-63870-9.pdf)
 
+-	Shanshan Hu, Chen Huang, Changyuan Li, Long Yang, Zhiwei Chen, Baisheng Sa, Wen Li, and Yanzhong Pei. Thermal stability of FeSi as barrier layer in high-performance Mg2Si0.3Sn0.7, J. Materiomics, 11(5):101044, September 2025. https://doi.org/10.1016/j.jmat.2025.101044. [pdf](/files/papers/10.1016:j.jmat.2025.101044.pdf)
+
 -	Haitao Wang, Te Kang, Long Yang\*, and Yanzhong Pei\*. Deciphering the functions of rubidium in structural stability and ionic conductivity of KAg4I5, J. Mater. Chem. A, 13(38):32179–32186, September 2025. https://doi.org/10.1039/D5TA03873A. (Co-corresponding author). [pdf](/files/papers/10.1039:D5TA03873A.pdf)
 
 -	Rui Zhou, Ziyan Li, Shujing Yang, Xuemei Wang, Xinyi Shen, Long Yang, Zhiwei Chen, Juan Chen, and Wen Li. In situ formed nano-interlayer enables robust interface bonding in efficient Bi2Te3-based thermoelectric modules, J. Mater. Chem. A, 13(40):34346–34352, September 2025. https://doi.org/10.1039/D5TA06391D. [pdf](/files/papers/10.1039:D5TA06391D.pdf)
