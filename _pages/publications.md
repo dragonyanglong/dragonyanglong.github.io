@@ -7,9 +7,9 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
--	Te Kang, Changyuan Li, Xinjue Zhang, Yuiga Nakamura, Jo-chi Tseng, Taishun Manjo, Chaofeng Liu, and Long Yang\*. Local symmetry breaking induced superionic conductivity in argyrodites, J. Am. Chem. Soc., January 2026. https://10.1021/jacs.5c17193. [pdf](/files/papers/10.1021:jacs.5c17193.pdf)
+-	Te Kang, Changyuan Li, Xinjue Zhang, Yuiga Nakamura, Jo-chi Tseng, Taishun Manjo, Chaofeng Liu, and Long Yang\*. Local symmetry breaking induced superionic conductivity in argyrodites, J. Am. Chem. Soc., January 2026. https://doi.org/10.1021/jacs.5c17193. [pdf](/files/papers/10.1021:jacs.5c17193.pdf)
 
--	Heng Liu, Menghao Yang, Quan Zong, Min-Hsin Yeh, Chun-Chi Chang, Long Yang, Wei-Hsiang Huang, Chaofeng Liu, and Guozhong Cao. Suppressed proton insertion enhances zinc-ion storage kinetics and stability in hydrated vanadate, ACS Energy Lett., December 2025. https://10.1021/acsenergylett.5c03338. [pdf](/files/papers/10.1021:acsenergylett.5c03338.pdf)
+-	Heng Liu, Menghao Yang, Quan Zong, Min-Hsin Yeh, Chun-Chi Chang, Long Yang, Wei-Hsiang Huang, Chaofeng Liu, and Guozhong Cao. Suppressed proton insertion enhances zinc-ion storage kinetics and stability in hydrated vanadate, ACS Energy Lett., December 2025. https://doi.org/10.1021/acsenergylett.5c03338. [pdf](/files/papers/10.1021:acsenergylett.5c03338.pdf)
 
 -	Tao Shen, Changyuan Li, Yifan Wang, Zhaoqian Li, Menghao Yang, Long Yang, and Chaofeng Liu. Fluorinated aromatic anode-electrolyte interface for highly reversible zinc anode, Advanced Functional Materials, 35(47):2509705, November 2025. https://doi.org/10.1002/adfm.202509705. [pdf](/files/papers/10.1002:adfm.202509705.pdf)
 
