@@ -7,7 +7,11 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
+- Changyuan Li, Di Zhang, Xiaoyu Zhang, Hongyao Zhang, Jiang Cheng, Zhiwei Chen, He Lin, Xiang Meng, Wen Li, and Long Yang\*. Nanoscale local symmetry optimization induced low lattice thermal conductivity in I‐V‐VI2 compounds, Advanced Functional Materials, e74755, March 2026. https://doi.org/10.1002/adfm.74755. [pdf](/files/papers/10.1002:adfm.74755.pdf)
+
 -	Te Kang, Changyuan Li, Xinjue Zhang, Yuiga Nakamura, Jo-chi Tseng, Taishun Manjo, Chaofeng Liu, and Long Yang\*. Local symmetry breaking induced superionic conductivity in argyrodites, J. Am. Chem. Soc., 148(6):6158-6166, January 2026. https://doi.org/10.1021/jacs.5c17193. [Selected as Journal Cover](https://pubs.acs.org/toc/jacsat/148/6). [pdf](/files/papers/10.1021:jacs.5c17193.pdf)
+
+- Jidong Ma, Heng Liu, Te Kang, Changyuan Li, Huanhuan Niu, Long Yang, Chaofeng Liu, and Guozhong Cao. Controlling ligand field of Li3VO4 to enhance the electrochemical performance for lithium-ion batteries, Science China Materials, 69(2):838-847, January 2026. https://doi.org/10.1007/s40843-025-3712-2. [pdf](/files/papers/10.1007:s40843-025-3712-2.pdf)
 
 -	Heng Liu, Menghao Yang, Quan Zong, Min-Hsin Yeh, Chun-Chi Chang, Long Yang, Wei-Hsiang Huang, Chaofeng Liu, and Guozhong Cao. Suppressed proton insertion enhances zinc-ion storage kinetics and stability in hydrated vanadate, ACS Energy Lett., 11(1):644-653, December 2025. https://doi.org/10.1021/acsenergylett.5c03338. [pdf](/files/papers/10.1021:acsenergylett.5c03338.pdf)
 
@@ -23,13 +27,13 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Rui Zhou, Ziyan Li, Shujing Yang, Xuemei Wang, Xinyi Shen, Long Yang, Zhiwei Chen, Juan Chen, and Wen Li. In situ formed nano-interlayer enables robust interface bonding in efficient Bi2Te3-based thermoelectric modules, J. Mater. Chem. A, 13(40):34346–34352, September 2025. https://doi.org/10.1039/D5TA06391D. [pdf](/files/papers/10.1039:D5TA06391D.pdf)
 
--   Huanhuan Niu, Heng Liu, Wei-Hsiang Huang, Ting Shen, Menghao Yang, Min-Hsin Yeh, Long Yang\*, and Chaofeng Liu\*. Enhanced Working Voltage in Hydrated Vanadate Cathodes: Insights into \[VO6\] Octahedral Distortion and V 3d Orbital Splitting, Advanced Functional Materials, 36(11):e18785, August 2025. https://doi.org/10.1002/adfm.202518785. (Co-corresponding author). [pdf](/files/papers/10.1002:adfm.202518785.pdf)
+-   Huanhuan Niu, Heng Liu, Wei-Hsiang Huang, Ting Shen, Menghao Yang, Min-Hsin Yeh, Long Yang\*, and Chaofeng Liu\*. Enhanced working voltage in hydrated vanadate cathodes: insights into \[VO6\] octahedral distortion and V 3d orbital splitting, Advanced Functional Materials, 36(11):e18785, August 2025. https://doi.org/10.1002/adfm.202518785. (Co-corresponding author). [pdf](/files/papers/10.1002:adfm.202518785.pdf)
 
--   Shasha Guo, Mohamed Ait Tamerd\*, Changyuan Li, Xinyue Shi, Menghao Yang, Jingrong Hou, Jie Liu, Mingxue Tang, Shu-Chih Haw, Chien-Te Chen, Ting-Shan Chan, Chang-Yang Kuo, Zhiwei Hu, Long Yang\*, and Jiwei Ma\*, Activating Sodium Intercalation in Cation-Deficient Fe3O4 through Mo Substitution. Small, 21(18):2408212, March 2025. https://doi.org/10.1002/smll.202408212. (Co-corresponding author). [pdf](/files/papers/10.1002:smll.202408212.pdf)
+-   Shasha Guo, Mohamed Ait Tamerd\*, Changyuan Li, Xinyue Shi, Menghao Yang, Jingrong Hou, Jie Liu, Mingxue Tang, Shu-Chih Haw, Chien-Te Chen, Ting-Shan Chan, Chang-Yang Kuo, Zhiwei Hu, Long Yang\*, and Jiwei Ma\*, Activating sodium intercalation in cation-deficient Fe3O4 through Mo substitution. Small, 21(18):2408212, March 2025. https://doi.org/10.1002/smll.202408212. (Co-corresponding author). [pdf](/files/papers/10.1002:smll.202408212.pdf)
 
 -   Di Zhang, Min Liu, Tao Jin, Long Yang\*, Wen Li\*, and Yanzhong Pei\*, (AgSbTe2)1-x(Bi2Te3)x-based thermoelectric device for low-grade heat recovery, Materials Today Physics, 52:101692, March 2025. https://doi.org/10.1016/j.mtphys.2025.101692. (Co-corresponding author). [pdf](/files/papers/10.1016:j.mtphys.2025.101692.pdf)
 
--	Heng Liu\*, Long Yang\*, Ting Shen, Changyuan Li, Te Kang, Huanhuan Niu, Wei-Hsiang Huang, Chun-Chi Chang, Menghao Yang, Guozhong Cao, and Chaofeng Liu, Distorting Local Structures to Modulate Ligand Fields in Vanadium Oxide for High-Performance Aqueous Zinc-Ion Batteries, ACS Nano, 19(9):9132–9143, March 2025. https://doi.org/10.1021/acsnano.4c18250. (Co-first author). [pdf](files/papers/10.1021:acsnano.4c18250.pdf)
+-	Heng Liu\#, Long Yang\#, Ting Shen, Changyuan Li, Te Kang, Huanhuan Niu, Wei-Hsiang Huang, Chun-Chi Chang, Menghao Yang, Guozhong Cao, and Chaofeng Liu, Distorting local structures to modulate ligand fields in vanadium oxide for high-performance aqueous zinc-ion batteries, ACS Nano, 19(9):9132–9143, March 2025. https://doi.org/10.1021/acsnano.4c18250. (Co-first author). [pdf](files/papers/10.1021:acsnano.4c18250.pdf)
 
 -	Shanshan Hu, Min Liu, Long Yang, Zhiwei Chen, Jun Luo, Wen Li, Yanzhong Pei, Effective diffusion barrier layer enables a robust CdSb-based thermoelectric single-leg device, Journal of Power Sources, 630:236102, February 2025. https://doi.org/10.1016/j.jpowsour.2024.236102. [pdf](files/papers/10.1016:j.jpowsour.2024.236102.pdf)
 
@@ -41,7 +45,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -   Yixin Hu, Xinyi Shen, Zhiwei Chen, Min Liu, Xinyue Zhang, Long Yang, Jun Luo, Wen Li, and Yanzhong Pei. Superior bendability enabled by inherent in-plane elasticity in Bi2Te3 thermoelectrics, Materials Today Physics, 48:101570, November 2024. https://doi.org/10.1016/j.mtphys.2024.101570. [pdf](/files/papers/10.1016:j.mtphys.2024.101570.pdf)
 
--	Tao Jin\*, Long Yang\*, Di Zhang, Xiaoyu Yang, Xinyue Zhang, Te Kang, Binghui Ge, Pengfei Nan, Wen Li, and Yanzhong Pei. Designing semiconductors from the assembly of close-packed slabs, Chemistry of Materials, 36(22):11189–11199, November 2024. https://doi.org/10.1021/acs.chemmater.4c02062. (Co-first author). [pdf](/files/papers/10.1021:acs.chemmater.4c02062.pdf)
+-	Tao Jin\#, Long Yang\#, Di Zhang, Xiaoyu Yang, Xinyue Zhang, Te Kang, Binghui Ge, Pengfei Nan, Wen Li, and Yanzhong Pei. Designing semiconductors from the assembly of close-packed slabs, Chemistry of Materials, 36(22):11189–11199, November 2024. https://doi.org/10.1021/acs.chemmater.4c02062. (Co-first author). [pdf](/files/papers/10.1021:acs.chemmater.4c02062.pdf)
 
 -   Heng Liu, Huanhuan Niu, Wei-Hsiang Huang, Ting Shen, Changyuan Li, Chun-Chi Chang, Menghao Yang, Chenlong Gao, Long Yang, Quan Zong, Yanzhong Pei, Guozhong Cao, and Chaofeng Liu. Unveiling the Local Structure and the Ligand Field of Organic Cation Preintercalated Vanadate Cathode for Aqueous Zinc-Ion Batteries, ACS Energy Letter, 9(11):5492–5501, October 2024. https://doi.org/10.1021/acsenergylett.4c02709. [pdf](/files/papers/10.1021:acsenergylett.4c02709.pdf)
 
@@ -51,7 +55,7 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Julien Lombardi, Long Yang, Nasim Farahmand, Anthony Ruffino, Ali Younes, Jonathan E. Spanier, Simon J. L. Billinge, and Stephen O’Brien. Structure and phase transitions in niobium and tantalum derived nanoscale transition metal perovskites, Ba(Ti,MV)O3, M=Nb,Ta, The Journal of Chemical Physics (Special Collection: Festschrift in honor of Louis E. Brus), 160(13):134702, April 2024. https://doi.org/10.1063/5.0192488. [pdf](/files/papers/10.1063:5.0192488.pdf)
 
--	Tao Jin\*, Long Yang\*, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI/I-V-VI2 thermoelectrics, InfoMat, 6(2):e12502, February 2024. https://doi.org/10.1002/inf2.12502. (Co-first author). [pdf](/files/papers/10.1002:inf2.12502.pdf)
+-	Tao Jin\#, Long Yang\#, Xinyue Zhang, Wen Li, and Yanzhong Pei. Close-packed layer spacing as a practical guideline for structure symmetry manipulation of IV-VI/I-V-VI2 thermoelectrics, InfoMat, 6(2):e12502, February 2024. https://doi.org/10.1002/inf2.12502. (Co-first author). [pdf](/files/papers/10.1002:inf2.12502.pdf)
 
 -	Saman Moniri, Yao Yang, Jun Ding, Yakun Yuan, Jihan Zhou, Long Yang, Fan Zhu, Yuxuan Liao, Yonggang Yao, Liangbing Hu, Peter Ercius, and Jianwei Miao. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys, Nature, 624(7992):564–569, December 2023. https://doi.org/10.1038/s41586-023-06785-z. [pdf](/files/papers/10.1038:s41586-023-06785-z.pdf)
 
