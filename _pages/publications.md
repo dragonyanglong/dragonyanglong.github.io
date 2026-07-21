@@ -7,9 +7,21 @@ author_profile: true
 
 You may also find the full list at <a href="https://scholar.google.com/citations?user=H2mOKp8AAAAJ" target="_blank">Google Scholar</a>.
 
-- Changyuan Li, Di Zhang, Xiaoyu Zhang, Hongyao Zhang, Jiang Cheng, Zhiwei Chen, He Lin, Xiang Meng, Wen Li, and Long Yang\*. Nanoscale local symmetry optimization induced low lattice thermal conductivity in I‐V‐VI2 compounds, Advanced Functional Materials, e74755, March 2026. https://doi.org/10.1002/adfm.74755. [pdf](/files/papers/10.1002:adfm.74755.pdf)
+-	Te Kang, Changyuan Li, Xinjue Zhang, Yuiga Nakamura, Jo-chi Tseng, Taishun Manjo, Chaofeng Liu, and Long Yang\*. Local symmetry breaking induced superionic conductivity in argyrodites, J. Am. Chem. Soc., 148(6):6158-6166, January 2026. https://doi.org/10.1021/jacs.5c17193. [Selected as Journal Cover](https://pubs.acs.org/toc/jacsat/148/6). (Corresponding author). [pdf](/files/papers/10.1021:jacs.5c17193.pdf)
 
--	Te Kang, Changyuan Li, Xinjue Zhang, Yuiga Nakamura, Jo-chi Tseng, Taishun Manjo, Chaofeng Liu, and Long Yang\*. Local symmetry breaking induced superionic conductivity in argyrodites, J. Am. Chem. Soc., 148(6):6158-6166, January 2026. https://doi.org/10.1021/jacs.5c17193. [Selected as Journal Cover](https://pubs.acs.org/toc/jacsat/148/6). [pdf](/files/papers/10.1021:jacs.5c17193.pdf)
+- Changyuan Li, Di Zhang, Xiaoyu Zhang, Hongyao Zhang, Jiang Cheng, Zhiwei Chen, He Lin, Xiang Meng\*, Wen Li\*, and Long Yang\*. Nanoscale local symmetry optimization induced low lattice thermal conductivity in I‐V‐VI2 compounds, Advanced Functional Materials, e74755, March 2026. https://doi.org/10.1002/adfm.74755. (Corresponding author). [pdf](/files/papers/10.1002:adfm.74755.pdf)
+
+-	Jiarui Li, Quan Nie, Te Kang, Ge Qu, Fangzhou Yang, Wang Wan, Long Yang, Chao Wang, and Yunhui Huang. Ultrafast joule-heating disproportionation for engineering sub-2 nm Si nanodomains toward stable, high-performance SiO anodes, J. Am. Chem. Soc., 148(25):26017–26026, July 2026. https://doi.org/10.1021/jacs.6c04827. [pdf](/files/papers/10.1021:jacs.6c04827.pdf)
+
+-	Ziyue Liu, Qingyu Bai, Zhiwei Chen, Linjie Wu, Te Kang, Changyuan Li, Long Yang, Jun Luo, and Yanzhong Pei. Extraordinary heat insulation in RbAg4I5, Natl. Sci. Rev., 13(13):nwag318, July 2026. https://doi.org/10.1093/nsr/nwag318. [pdf](/files/papers/10.1093:nsr:nwag318.pdf)
+
+-	Siyuan Zhang, Jiacong Li, Yuge Cao, Yifeng Zhao, Zhongxing Xu, Zhuoran Lv, Long Yang, Chaohong Guan, Zhangliu Tian, Wujie Dong, Haijie Chen, and Fuqiang Huang. Cyclic P3O93- Trimer: A Network Former for Amorphous Superionic Conductors in Sodium Solid-State Batteries, Angew. Chem. Int. Ed., page e4295699, July 2026. https://doi.org/10.1002/anie.4295699. [pdf](/files/papers/10.1002:anie.4295699.pdf)
+
+-	Yuhao Jin, Hao Fang, Haoyu Pan, Zhenyi Zhang, Chaofeng Liu, Long Yang\*, Zheng Zhou\*, and Haixiang Han\*. Single-Atom Migration into a Chiral Multilayer Nanocluster Architecture, J. Am. Chem. Soc., June 2026. https://doi.org/10.1021/jacs.6c03831. (Co-corresponding author). [pdf](/files/papers/10.1021:jacs.6c03831.pdf)
+
+-	Yang Shujing, Hu Shanshan, Li Ziyan, Li Changyuan, Yang Long, Chen Zhiwei, Chen Juan, Luo Jun, Li Wen, and Pei Yanzhong. Plastic processing induced multiscale microstructures for simultaneous thermoelectric and mechanical enhancements in PbTe, Sci. China Mater., June 2026. https://doi.org/10.1007/s40843-026-4345-7. [pdf](/files/papers/10.1007:s40843-026-4345-7.pdf)
+
+-	Linjie Wu\#, Pengfei Nan\#, Long Yang\#, Zhiwei Chen, Changyuan Li, Qingyu Bai, Hongzheng Wang, Sui Ting Tai, Chen Wang, Binghui Ge, Yue Chen, Jun Luo, and Yanzhong Pei. Flapping vibrations contributed to heat insulation in Cs2ZnI4, Natl. Sci. Rev., page nwag256, May 2026. https://doi.org/10.1093/nsr/nwag256. (Co-first author). [pdf](/files/papers/10.1093:nsr:nwag256.pdf)
 
 - Jidong Ma, Heng Liu, Te Kang, Changyuan Li, Huanhuan Niu, Long Yang, Chaofeng Liu, and Guozhong Cao. Controlling ligand field of Li3VO4 to enhance the electrochemical performance for lithium-ion batteries, Science China Materials, 69(2):838-847, January 2026. https://doi.org/10.1007/s40843-025-3712-2. [pdf](/files/papers/10.1007:s40843-025-3712-2.pdf)
 
