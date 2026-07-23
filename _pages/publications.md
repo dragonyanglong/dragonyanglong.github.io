@@ -15,9 +15,9 @@ You may also find the full list at <a href="https://scholar.google.com/citations
 
 -	Ziyue Liu, Qingyu Bai, Zhiwei Chen, Linjie Wu, Te Kang, Changyuan Li, **Long Yang**, Jun Luo, and Yanzhong Pei. Extraordinary heat insulation in RbAg4I5, Natl. Sci. Rev., 13(13):nwag318, July 2026. https://doi.org/10.1093/nsr/nwag318. [pdf](/files/papers/10.1093:nsr:nwag318.pdf)
 
--	Siyuan Zhang, Jiacong Li, Yuge Cao, Yifeng Zhao, Zhongxing Xu, Zhuoran Lv, **Long Yang**, Chaohong Guan, Zhangliu Tian, Wujie Dong, Haijie Chen, and Fuqiang Huang. Cyclic P3O93- Trimer: A Network Former for Amorphous Superionic Conductors in Sodium Solid-State Batteries, Angew. Chem. Int. Ed., page e4295699, July 2026. https://doi.org/10.1002/anie.4295699. [pdf](/files/papers/10.1002:anie.4295699.pdf)
+-	Siyuan Zhang, Jiacong Li, Yuge Cao, Yifeng Zhao, Zhongxing Xu, Zhuoran Lv, **Long Yang**, Chaohong Guan, Zhangliu Tian, Wujie Dong, Haijie Chen, and Fuqiang Huang. Cyclic P3O93- trimer: a network former for amorphous superionic conductors in sodium solid-state batteries, Angew. Chem. Int. Ed., page e4295699, July 2026. https://doi.org/10.1002/anie.4295699. [pdf](/files/papers/10.1002:anie.4295699.pdf)
 
--	Yuhao Jin, Hao Fang, Haoyu Pan, Zhenyi Zhang, Chaofeng Liu, **Long Yang**\*, Zheng Zhou\*, and Haixiang Han\*. Single-Atom Migration into a Chiral Multilayer Nanocluster Architecture, J. Am. Chem. Soc., June 2026. https://doi.org/10.1021/jacs.6c03831. (Co-corresponding author). [pdf](/files/papers/10.1021:jacs.6c03831.pdf)
+-	Yuhao Jin, Hao Fang, Haoyu Pan, Zhenyi Zhang, Chaofeng Liu, **Long Yang**\*, Zheng Zhou\*, and Haixiang Han\*. Single-atom migration into a chiral multilayer nanocluster architecture, J. Am. Chem. Soc., June 2026. https://doi.org/10.1021/jacs.6c03831. (Co-corresponding author). [pdf](/files/papers/10.1021:jacs.6c03831.pdf)
 
 -	Shujing Yang, Shanshan Hu, Ziyan Li, Changyuan Li, **Long Yang**, Zhiwei Chen, Juan Chen, Jun Luo, Wen Li, and Yanzhong Pei. Plastic processing induced multiscale microstructures for simultaneous thermoelectric and mechanical enhancements in PbTe, Sci. China Mater., June 2026. https://doi.org/10.1007/s40843-026-4345-7. [pdf](/files/papers/10.1007:s40843-026-4345-7.pdf)
 
