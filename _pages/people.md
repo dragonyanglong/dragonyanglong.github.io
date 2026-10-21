@@ -53,7 +53,7 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
-<image align="left" width="150" height="200" src="/images/people/kangte.jpeg">
+<!-- <image align="left" width="150" height="200" src="/images/people/kangte.jpeg">
 <p>
 <b>Te Kang (康特)</b> <br>
 2023-Now M.S. Tongji University <br>
@@ -63,7 +63,7 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 <image align="left" width="150" height="200" src="/images/people/chengyueyue.jpeg">
 <p>
@@ -121,8 +121,34 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 <br>
 
+<image align="left" width="150" height="200" src="/images/people/liyibo.jpg">
+<p>
+<b>Yibo Li (李怡博)</b> <br>
+2026-Now M.S. Tongji University <br>
+2022-2026 B.S. Luoyang Institute of Science and Technology <br>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<image align="left" width="150" height="200" src="/images/people/hujingying.jpg">
+<p>
+<b>Jingying Hu (胡静莹)</b> <br>
+2026-Now M.S. Tongji University <br>
+2022-2026 B.S. China University of Mining and Technology <br>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <h1>Alumni</h1>
+- Te Kang (康特, 23 BS, 26 MS) (Engineer in Industry)
+<br>
 - Shiqi Li (李施奇, 25 BS) (MS Candidate at Tsinghua University)
 <br>
 - Ping Sun (孙萍, 25 BS) (MS Candidate at the University of Science and Technology of China)
@@ -131,6 +157,6 @@ Email: long_yang@tongji.edu.cn <br>
 <br>
 - Jie Dong (董杰, 24 BS) (PhD candidate at Zhejiang University)
 <br>
-- Guanqing Chen (陈关清, 23 BS) (Engineer in Industry)
+- Guanqing Chen (陈关清, 23 BS) (MS Candidate at Xiamen University)
 <br>
 <br>
